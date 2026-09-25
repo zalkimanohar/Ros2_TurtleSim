@@ -1,0 +1,1619 @@
+[INFO] [launch]: All log files can be found below /home/mzalki/.ros/log/2026-09-25-10-34-36-443243-mzalki-QEMU-Virtual-Machine-15409
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [turtlesim_node-1]: process started with pid [15413]
+[INFO] [controller-2]: process started with pid [15414]
+[INFO] [spawner-3]: process started with pid [15415]
+[turtlesim_node-1] QSocketNotifier: Can only be used with threads started with QThread
+[turtlesim_node-1] [INFO] [1790325276.570296883] [turtlesim]: Starting turtlesim with node name /turtlesim
+[turtlesim_node-1] [INFO] [1790325276.573400378] [turtlesim]: Spawning turtle [turtle1] at x=[5.544445], y=[5.544445], theta=[0.000000]
+[turtlesim_node-1] libEGL warning: failed to get driver name for fd -1
+[turtlesim_node-1] 
+[turtlesim_node-1] libEGL warning: MESA-LOADER: failed to retrieve device information
+[turtlesim_node-1] 
+[turtlesim_node-1] libEGL warning: failed to get driver name for fd -1
+[turtlesim_node-1] 
+[turtlesim_node-1] MESA: error: ZINK: failed to choose pdev
+[turtlesim_node-1] libEGL warning: egl: failed to create dri2 screen
+[turtlesim_node-1] [ERROR] [1790325278.049341792] [turtlesim]: A turtle named [turtle1] already exists
+[spawner-3] [WARN] [1790325278.067387472] [turtle_spawner]: Spawn returned empty name!
+[turtlesim_node-1] [INFO] [1790325279.063224123] [turtlesim]: Spawning turtle [turtle2] at x=[2.831602], y=[1.410081], theta=[5.709136]
+[spawner-3] [INFO] [1790325279.064829788] [turtle_spawner]: New alive turtle: turtle2
+[controller-2] [INFO] [1790325279.080155764] [turtle_controller]: Target updated → turtle2
+[turtlesim_node-1] [INFO] [1790325280.050407136] [turtlesim]: Spawning turtle [turtle3] at x=[7.217106], y=[3.135212], theta=[2.058101]
+[spawner-3] [INFO] [1790325280.050845760] [turtle_spawner]: New alive turtle: turtle3
+[controller-2] [INFO] [1790325280.193046459] [turtle_controller]: Turtle turtle2 successfully removed!
+[spawner-3] [INFO] [1790325280.211944930] [turtle_spawner]: Killed turtle: turtle2
+[controller-2] [INFO] [1790325280.212099096] [turtle_controller]: Target updated → turtle3
+[turtlesim_node-1] [INFO] [1790325281.041423116] [turtlesim]: Spawning turtle [turtle4] at x=[1.661832], y=[9.798175], theta=[2.189415]
+[spawner-3] [INFO] [1790325281.041970073] [turtle_spawner]: New alive turtle: turtle4
+[controller-2] [INFO] [1790325281.383016430] [turtle_controller]: Turtle turtle3 successfully removed!
+[spawner-3] [INFO] [1790325281.393797205] [turtle_spawner]: Killed turtle: turtle3
+[controller-2] [INFO] [1790325281.393878788] [turtle_controller]: Target updated → turtle4
+[turtlesim_node-1] [INFO] [1790325282.049388459] [turtlesim]: Spawning turtle [turtle5] at x=[0.089017], y=[9.073795], theta=[0.955396]
+[spawner-3] [INFO] [1790325282.049894167] [turtle_spawner]: New alive turtle: turtle5
+[controller-2] [INFO] [1790325282.762818052] [turtle_controller]: Turtle turtle4 successfully removed!
+[spawner-3] [INFO] [1790325282.770782790] [turtle_spawner]: Killed turtle: turtle4
+[controller-2] [INFO] [1790325282.771136998] [turtle_controller]: Target updated → turtle5
+[turtlesim_node-1] [INFO] [1790325283.041997840] [turtlesim]: Spawning turtle [turtle6] at x=[2.567592], y=[0.002254], theta=[5.228193]
+[spawner-3] [INFO] [1790325283.042404673] [turtle_spawner]: New alive turtle: turtle6
+[controller-2] [INFO] [1790325283.462893546] [turtle_controller]: Turtle turtle5 successfully removed!
+[spawner-3] [INFO] [1790325283.474002238] [turtle_spawner]: Killed turtle: turtle5
+[controller-2] [INFO] [1790325283.474133238] [turtle_controller]: Target updated → turtle6
+[turtlesim_node-1] [WARN] [1790325283.568303723] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.007872, y=2.193700])
+[turtlesim_node-1] [WARN] [1790325283.583357408] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.197221, y=2.425451])
+[turtlesim_node-1] [WARN] [1790325283.600657799] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.166776, y=2.679991])
+[turtlesim_node-1] [WARN] [1790325283.615564902] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.134598, y=2.948898])
+[turtlesim_node-1] [WARN] [1790325283.631613087] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.102584, y=3.231570])
+[turtlesim_node-1] [WARN] [1790325283.647644354] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.070825, y=3.519176])
+[turtlesim_node-1] [WARN] [1790325283.663253539] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.044067, y=3.796983])
+[turtlesim_node-1] [WARN] [1790325283.680838846] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.020564, y=4.077510])
+[turtlesim_node-1] [WARN] [1790325283.695684699] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.002492, y=4.341948])
+[turtlesim_node-1] [INFO] [1790325284.050428505] [turtlesim]: Spawning turtle [turtle7] at x=[6.573663], y=[1.378328], theta=[3.099156]
+[spawner-3] [INFO] [1790325284.050935004] [turtle_spawner]: New alive turtle: turtle7
+[controller-2] [INFO] [1790325284.853470819] [turtle_controller]: Turtle turtle6 successfully removed!
+[spawner-3] [INFO] [1790325284.866464467] [turtle_spawner]: Killed turtle: turtle6
+[controller-2] [INFO] [1790325284.866540633] [turtle_controller]: Target updated → turtle7
+[turtlesim_node-1] [WARN] [1790325284.991864907] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=2.764343, y=11.094994])
+[turtlesim_node-1] [WARN] [1790325285.008662173] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=2.887177, y=11.151464])
+[turtlesim_node-1] [WARN] [1790325285.024056734] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=3.013088, y=11.136346])
+[turtlesim_node-1] [INFO] [1790325285.041109001] [turtlesim]: Spawning turtle [turtle8] at x=[2.277859], y=[5.977051], theta=[2.098235]
+[turtlesim_node-1] [WARN] [1790325285.041154709] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=3.143471, y=11.122143])
+[spawner-3] [INFO] [1790325285.041515834] [turtle_spawner]: New alive turtle: turtle8
+[turtlesim_node-1] [WARN] [1790325285.055285147] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=3.271474, y=11.109377])
+[turtlesim_node-1] [WARN] [1790325285.071491415] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=3.400810, y=11.097658])
+[controller-2] [INFO] [1790325285.922964587] [turtle_controller]: Turtle turtle7 successfully removed!
+[spawner-3] [INFO] [1790325285.938511814] [turtle_spawner]: Killed turtle: turtle7
+[controller-2] [INFO] [1790325285.939005814] [turtle_controller]: Target updated → turtle8
+[turtlesim_node-1] [INFO] [1790325286.049702069] [turtlesim]: Spawning turtle [turtle9] at x=[9.767811], y=[10.176272], theta=[5.759174]
+[spawner-3] [INFO] [1790325286.050385318] [turtle_spawner]: New alive turtle: turtle9
+[turtlesim_node-1] [INFO] [1790325287.042466050] [turtlesim]: Spawning turtle [turtle10] at x=[2.662853], y=[5.856854], theta=[4.108167]
+[spawner-3] [INFO] [1790325287.042928508] [turtle_spawner]: New alive turtle: turtle10
+[controller-2] [INFO] [1790325287.192889543] [turtle_controller]: Turtle turtle8 successfully removed!
+[controller-2] [INFO] [1790325287.203217153] [turtle_controller]: Target updated → turtle10
+[spawner-3] [INFO] [1790325287.204972984] [turtle_spawner]: Killed turtle: turtle8
+[controller-2] [INFO] [1790325287.212708931] [turtle_controller]: Turtle turtle10 successfully removed!
+[spawner-3] [INFO] [1790325287.218181757] [turtle_spawner]: Killed turtle: turtle10
+[controller-2] [INFO] [1790325287.218813631] [turtle_controller]: Target updated → turtle9
+[turtlesim_node-1] [INFO] [1790325288.049465275] [turtlesim]: Spawning turtle [turtle11] at x=[10.142124], y=[3.672457], theta=[0.691445]
+[spawner-3] [INFO] [1790325288.050482648] [turtle_spawner]: New alive turtle: turtle11
+[controller-2] [INFO] [1790325288.612817268] [turtle_controller]: Turtle turtle9 successfully removed!
+[spawner-3] [INFO] [1790325288.626303582] [turtle_spawner]: Killed turtle: turtle9
+[controller-2] [INFO] [1790325288.626383290] [turtle_controller]: Target updated → turtle11
+[turtlesim_node-1] [INFO] [1790325289.041341369] [turtlesim]: Spawning turtle [turtle12] at x=[9.595125], y=[7.645450], theta=[5.160533]
+[spawner-3] [INFO] [1790325289.041994660] [turtle_spawner]: New alive turtle: turtle12
+[controller-2] [INFO] [1790325289.872936285] [turtle_controller]: Turtle turtle11 successfully removed!
+[spawner-3] [INFO] [1790325289.890768260] [turtle_spawner]: Killed turtle: turtle11
+[controller-2] [INFO] [1790325289.890891343] [turtle_controller]: Target updated → turtle12
+[turtlesim_node-1] [INFO] [1790325290.051214869] [turtlesim]: Spawning turtle [turtle13] at x=[9.746668], y=[1.899832], theta=[2.159477]
+[spawner-3] [INFO] [1790325290.051717368] [turtle_spawner]: New alive turtle: turtle13
+[controller-2] [INFO] [1790325290.983969532] [turtle_controller]: Turtle turtle12 successfully removed!
+[spawner-3] [INFO] [1790325290.993403519] [turtle_spawner]: Killed turtle: turtle12
+[controller-2] [INFO] [1790325290.993468310] [turtle_controller]: Target updated → turtle13
+[turtlesim_node-1] [INFO] [1790325291.040917953] [turtlesim]: Spawning turtle [turtle14] at x=[0.952962], y=[2.209705], theta=[1.362407]
+[spawner-3] [INFO] [1790325291.041494661] [turtle_spawner]: New alive turtle: turtle14
+[turtlesim_node-1] [WARN] [1790325291.312356747] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.090340, y=5.014884])
+[turtlesim_node-1] [INFO] [1790325292.048790652] [turtlesim]: Spawning turtle [turtle15] at x=[8.094695], y=[8.815563], theta=[5.188815]
+[spawner-3] [INFO] [1790325292.049517692] [turtle_spawner]: New alive turtle: turtle15
+[controller-2] [INFO] [1790325292.262872486] [turtle_controller]: Turtle turtle13 successfully removed!
+[spawner-3] [INFO] [1790325292.277963673] [turtle_spawner]: Killed turtle: turtle13
+[controller-2] [INFO] [1790325292.278408339] [turtle_controller]: Target updated → turtle15
+[turtlesim_node-1] [INFO] [1790325293.041185261] [turtlesim]: Spawning turtle [turtle16] at x=[2.375201], y=[4.741522], theta=[3.786084]
+[spawner-3] [INFO] [1790325293.041547594] [turtle_spawner]: New alive turtle: turtle16
+[controller-2] [INFO] [1790325293.602901088] [turtle_controller]: Turtle turtle15 successfully removed!
+[spawner-3] [INFO] [1790325293.619546524] [turtle_spawner]: Killed turtle: turtle15
+[controller-2] [INFO] [1790325293.619947898] [turtle_controller]: Target updated → turtle16
+[turtlesim_node-1] [INFO] [1790325294.050645278] [turtlesim]: Spawning turtle [turtle17] at x=[1.900072], y=[5.685070], theta=[3.209778]
+[spawner-3] [INFO] [1790325294.051333902] [turtle_spawner]: New alive turtle: turtle17
+[controller-2] [INFO] [1790325294.952835577] [turtle_controller]: Turtle turtle16 successfully removed!
+[spawner-3] [INFO] [1790325294.961955689] [turtle_spawner]: Killed turtle: turtle16
+[controller-2] [INFO] [1790325294.962137231] [turtle_controller]: Target updated → turtle17
+[turtlesim_node-1] [INFO] [1790325295.041116626] [turtlesim]: Spawning turtle [turtle18] at x=[3.136529], y=[7.407954], theta=[2.340601]
+[spawner-3] [INFO] [1790325295.041778042] [turtle_spawner]: New alive turtle: turtle18
+[controller-2] [INFO] [1790325295.382882634] [turtle_controller]: Turtle turtle17 successfully removed!
+[spawner-3] [INFO] [1790325295.395360285] [turtle_spawner]: Killed turtle: turtle17
+[controller-2] [INFO] [1790325295.395481201] [turtle_controller]: Target updated → turtle18
+[turtlesim_node-1] [INFO] [1790325296.048912591] [turtlesim]: Spawning turtle [turtle19] at x=[1.192586], y=[0.625929], theta=[2.163417]
+[spawner-3] [INFO] [1790325296.049846131] [turtle_spawner]: New alive turtle: turtle19
+[controller-2] [INFO] [1790325296.162820984] [turtle_controller]: Turtle turtle18 successfully removed!
+[spawner-3] [INFO] [1790325296.179464463] [turtle_spawner]: Killed turtle: turtle18
+[controller-2] [INFO] [1790325296.179790795] [turtle_controller]: Target updated → turtle14
+[turtlesim_node-1] [INFO] [1790325297.041652340] [turtlesim]: Spawning turtle [turtle20] at x=[0.287454], y=[4.146770], theta=[0.677020]
+[spawner-3] [INFO] [1790325297.042026131] [turtle_spawner]: New alive turtle: turtle20
+[controller-2] [INFO] [1790325297.412894570] [turtle_controller]: Turtle turtle14 successfully removed!
+[spawner-3] [INFO] [1790325297.426679510] [turtle_spawner]: Killed turtle: turtle14
+[controller-2] [INFO] [1790325297.426825843] [turtle_controller]: Target updated → turtle20
+[turtlesim_node-1] [INFO] [1790325298.049832624] [turtlesim]: Spawning turtle [turtle21] at x=[9.905321], y=[7.440837], theta=[0.390968]
+[spawner-3] [INFO] [1790325298.050214124] [turtle_spawner]: New alive turtle: turtle21
+[controller-2] [INFO] [1790325298.183882787] [turtle_controller]: Turtle turtle20 successfully removed!
+[spawner-3] [INFO] [1790325298.195238231] [turtle_spawner]: Killed turtle: turtle20
+[controller-2] [INFO] [1790325298.195345814] [turtle_controller]: Target updated → turtle19
+[turtlesim_node-1] [INFO] [1790325299.041284361] [turtlesim]: Spawning turtle [turtle22] at x=[7.457046], y=[7.785985], theta=[5.094460]
+[spawner-3] [INFO] [1790325299.041753819] [turtle_spawner]: New alive turtle: turtle22
+[controller-2] [INFO] [1790325299.232822120] [turtle_controller]: Turtle turtle19 successfully removed!
+[spawner-3] [INFO] [1790325299.250746056] [turtle_spawner]: Killed turtle: turtle19
+[controller-2] [INFO] [1790325299.250905139] [turtle_controller]: Target updated → turtle22
+[turtlesim_node-1] [WARN] [1790325299.392005628] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=2.013003, y=11.191745])
+[turtlesim_node-1] [WARN] [1790325299.407278317] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=2.300866, y=11.170872])
+[turtlesim_node-1] [WARN] [1790325299.423502171] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=2.606388, y=11.118086])
+[turtlesim_node-1] [INFO] [1790325300.049298342] [turtlesim]: Spawning turtle [turtle23] at x=[1.813872], y=[10.963563], theta=[0.005260]
+[spawner-3] [INFO] [1790325300.049962049] [turtle_spawner]: New alive turtle: turtle23
+[controller-2] [INFO] [1790325300.713897472] [turtle_controller]: Turtle turtle22 successfully removed!
+[spawner-3] [INFO] [1790325300.723398752] [turtle_spawner]: Killed turtle: turtle22
+[controller-2] [INFO] [1790325300.723700126] [turtle_controller]: Target updated → turtle21
+[turtlesim_node-1] [INFO] [1790325301.041385564] [turtlesim]: Spawning turtle [turtle24] at x=[3.850790], y=[4.619071], theta=[3.476667]
+[spawner-3] [INFO] [1790325301.041857230] [turtle_spawner]: New alive turtle: turtle24
+[controller-2] [INFO] [1790325301.564541378] [turtle_controller]: Turtle turtle21 successfully removed!
+[spawner-3] [INFO] [1790325301.570113288] [turtle_spawner]: Killed turtle: turtle21
+[controller-2] [INFO] [1790325301.570179496] [turtle_controller]: Target updated → turtle24
+[turtlesim_node-1] [INFO] [1790325302.051279529] [turtlesim]: Spawning turtle [turtle25] at x=[10.833755], y=[3.804985], theta=[1.019206]
+[spawner-3] [INFO] [1790325302.052497194] [turtle_spawner]: New alive turtle: turtle25
+[controller-2] [INFO] [1790325302.873552861] [turtle_controller]: Turtle turtle24 successfully removed!
+[spawner-3] [INFO] [1790325302.884734139] [turtle_spawner]: Killed turtle: turtle24
+[controller-2] [INFO] [1790325302.885052930] [turtle_controller]: Target updated → turtle25
+[turtlesim_node-1] [INFO] [1790325303.041531824] [turtlesim]: Spawning turtle [turtle26] at x=[0.698644], y=[8.724595], theta=[3.989127]
+[spawner-3] [INFO] [1790325303.042524072] [turtle_spawner]: New alive turtle: turtle26
+[turtlesim_node-1] [INFO] [1790325304.049967860] [turtlesim]: Spawning turtle [turtle27] at x=[3.378680], y=[9.370985], theta=[3.283875]
+[spawner-3] [INFO] [1790325304.050828693] [turtle_spawner]: New alive turtle: turtle27
+[controller-2] [INFO] [1790325304.242967172] [turtle_controller]: Turtle turtle25 successfully removed!
+[spawner-3] [INFO] [1790325304.259932485] [turtle_spawner]: Killed turtle: turtle25
+[controller-2] [INFO] [1790325304.260306027] [turtle_controller]: Target updated → turtle27
+[turtlesim_node-1] [WARN] [1790325304.383262589] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.205746, y=6.583145])
+[turtlesim_node-1] [WARN] [1790325304.401055276] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.155753, y=6.300862])
+[turtlesim_node-1] [WARN] [1790325304.415944508] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.106354, y=6.005664])
+[turtlesim_node-1] [INFO] [1790325305.041399223] [turtlesim]: Spawning turtle [turtle28] at x=[10.209907], y=[0.162661], theta=[0.574635]
+[spawner-3] [INFO] [1790325305.041875139] [turtle_spawner]: New alive turtle: turtle28
+[controller-2] [INFO] [1790325305.683232343] [turtle_controller]: Turtle turtle27 successfully removed!
+[spawner-3] [INFO] [1790325305.699692157] [turtle_spawner]: Killed turtle: turtle27
+[controller-2] [INFO] [1790325305.699993240] [turtle_controller]: Target updated → turtle23
+[turtlesim_node-1] [INFO] [1790325306.053238367] [turtlesim]: Spawning turtle [turtle29] at x=[2.213586], y=[6.565730], theta=[4.870039]
+[spawner-3] [INFO] [1790325306.053934117] [turtle_spawner]: New alive turtle: turtle29
+[controller-2] [INFO] [1790325306.484038034] [turtle_controller]: Turtle turtle23 successfully removed!
+[spawner-3] [INFO] [1790325306.499219891] [turtle_spawner]: Killed turtle: turtle23
+[controller-2] [INFO] [1790325306.499277099] [turtle_controller]: Target updated → turtle26
+[turtlesim_node-1] [INFO] [1790325307.041887761] [turtlesim]: Spawning turtle [turtle30] at x=[0.553926], y=[2.804523], theta=[3.516206]
+[spawner-3] [INFO] [1790325307.042441719] [turtle_spawner]: New alive turtle: turtle30
+[controller-2] [INFO] [1790325307.332809510] [turtle_controller]: Turtle turtle26 successfully removed!
+[spawner-3] [INFO] [1790325307.347684118] [turtle_spawner]: Killed turtle: turtle26
+[controller-2] [INFO] [1790325307.348307076] [turtle_controller]: Target updated → turtle29
+[turtlesim_node-1] [INFO] [1790325308.050505062] [turtlesim]: Spawning turtle [turtle31] at x=[8.463076], y=[4.097321], theta=[1.394901]
+[spawner-3] [INFO] [1790325308.051200687] [turtle_spawner]: New alive turtle: turtle31
+[controller-2] [INFO] [1790325308.192956068] [turtle_controller]: Turtle turtle29 successfully removed!
+[spawner-3] [INFO] [1790325308.209985340] [turtle_spawner]: Killed turtle: turtle29
+[controller-2] [INFO] [1790325308.210531589] [turtle_controller]: Target updated → turtle30
+[turtlesim_node-1] [INFO] [1790325309.041557398] [turtlesim]: Spawning turtle [turtle32] at x=[6.781363], y=[6.144808], theta=[2.877850]
+[spawner-3] [INFO] [1790325309.042044897] [turtle_spawner]: New alive turtle: turtle32
+[controller-2] [INFO] [1790325309.253419369] [turtle_controller]: Turtle turtle30 successfully removed!
+[spawner-3] [INFO] [1790325309.267378353] [turtle_spawner]: Killed turtle: turtle30
+[controller-2] [INFO] [1790325309.267576478] [turtle_controller]: Target updated → turtle32
+[turtlesim_node-1] [INFO] [1790325310.049902561] [turtlesim]: Spawning turtle [turtle33] at x=[2.153045], y=[4.271215], theta=[2.359444]
+[spawner-3] [INFO] [1790325310.050663893] [turtle_spawner]: New alive turtle: turtle33
+[controller-2] [INFO] [1790325310.612937146] [turtle_controller]: Turtle turtle32 successfully removed!
+[spawner-3] [INFO] [1790325310.627004339] [turtle_spawner]: Killed turtle: turtle32
+[controller-2] [INFO] [1790325310.627685963] [turtle_controller]: Target updated → turtle31
+[turtlesim_node-1] [INFO] [1790325311.042210255] [turtlesim]: Spawning turtle [turtle34] at x=[3.132771], y=[1.407398], theta=[5.217228]
+[spawner-3] [INFO] [1790325311.042908671] [turtle_spawner]: New alive turtle: turtle34
+[controller-2] [INFO] [1790325311.492889721] [turtle_controller]: Turtle turtle31 successfully removed!
+[spawner-3] [INFO] [1790325311.506547082] [turtle_spawner]: Killed turtle: turtle31
+[controller-2] [INFO] [1790325311.506968039] [turtle_controller]: Target updated → turtle28
+[turtlesim_node-1] [INFO] [1790325312.051026154] [turtlesim]: Spawning turtle [turtle35] at x=[10.878393], y=[8.846292], theta=[4.677260]
+[spawner-3] [INFO] [1790325312.051590529] [turtle_spawner]: New alive turtle: turtle35
+[controller-2] [INFO] [1790325312.555169944] [turtle_controller]: Turtle turtle28 successfully removed!
+[spawner-3] [INFO] [1790325312.561687354] [turtle_spawner]: Killed turtle: turtle28
+[controller-2] [INFO] [1790325312.562087812] [turtle_controller]: Target updated → turtle34
+[turtlesim_node-1] [WARN] [1790325312.656684668] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=10.047972, y=11.200968])
+[turtlesim_node-1] [WARN] [1790325312.673708149] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=9.961684, y=11.294386])
+[turtlesim_node-1] [WARN] [1790325312.687735884] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=9.835933, y=11.272903])
+[turtlesim_node-1] [WARN] [1790325312.703685909] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=9.678465, y=11.251738])
+[turtlesim_node-1] [WARN] [1790325312.719578975] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=9.495835, y=11.222912])
+[turtlesim_node-1] [WARN] [1790325312.736591623] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=9.295718, y=11.193528])
+[turtlesim_node-1] [WARN] [1790325312.751939815] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=9.086100, y=11.165321])
+[turtlesim_node-1] [WARN] [1790325312.767557548] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=8.873024, y=11.140249])
+[turtlesim_node-1] [WARN] [1790325312.783561864] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=8.666981, y=11.121054])
+[turtlesim_node-1] [WARN] [1790325312.800717679] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=8.459000, y=11.104137])
+[turtlesim_node-1] [WARN] [1790325312.816176954] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=8.256711, y=11.089977])
+[turtlesim_node-1] [INFO] [1790325313.041468253] [turtlesim]: Spawning turtle [turtle36] at x=[0.719409], y=[3.035427], theta=[0.475328]
+[spawner-3] [INFO] [1790325313.042075086] [turtle_spawner]: New alive turtle: turtle36
+[controller-2] [INFO] [1790325313.842873984] [turtle_controller]: Turtle turtle34 successfully removed!
+[spawner-3] [INFO] [1790325313.858481092] [turtle_spawner]: Killed turtle: turtle34
+[controller-2] [INFO] [1790325313.858993383] [turtle_controller]: Target updated → turtle33
+[turtlesim_node-1] [INFO] [1790325314.049030973] [turtlesim]: Spawning turtle [turtle37] at x=[1.390970], y=[5.897028], theta=[3.587527]
+[spawner-3] [INFO] [1790325314.049785181] [turtle_spawner]: New alive turtle: turtle37
+[controller-2] [INFO] [1790325314.773865628] [turtle_controller]: Turtle turtle33 successfully removed!
+[spawner-3] [INFO] [1790325314.787587614] [turtle_spawner]: Killed turtle: turtle33
+[controller-2] [INFO] [1790325314.787894155] [turtle_controller]: Target updated → turtle36
+[turtlesim_node-1] [INFO] [1790325315.041493639] [turtlesim]: Spawning turtle [turtle38] at x=[2.813852], y=[4.533799], theta=[5.390223]
+[spawner-3] [INFO] [1790325315.042376972] [turtle_spawner]: New alive turtle: turtle38
+[controller-2] [INFO] [1790325315.493589004] [turtle_controller]: Turtle turtle36 successfully removed!
+[spawner-3] [INFO] [1790325315.507330698] [turtle_spawner]: Killed turtle: turtle36
+[controller-2] [INFO] [1790325315.507767114] [turtle_controller]: Target updated → turtle38
+[turtlesim_node-1] [INFO] [1790325316.049397553] [turtlesim]: Spawning turtle [turtle39] at x=[1.044476], y=[4.712145], theta=[5.337478]
+[spawner-3] [INFO] [1790325316.049895136] [turtle_spawner]: New alive turtle: turtle39
+[controller-2] [INFO] [1790325316.373689013] [turtle_controller]: Turtle turtle38 successfully removed!
+[spawner-3] [INFO] [1790325316.386581125] [turtle_spawner]: Killed turtle: turtle38
+[controller-2] [INFO] [1790325316.386969791] [turtle_controller]: Target updated → turtle39
+[turtlesim_node-1] [INFO] [1790325317.040912414] [turtlesim]: Spawning turtle [turtle40] at x=[8.196749], y=[5.677598], theta=[4.289516]
+[spawner-3] [INFO] [1790325317.041865538] [turtle_spawner]: New alive turtle: turtle40
+[controller-2] [INFO] [1790325317.062817475] [turtle_controller]: Turtle turtle39 successfully removed!
+[controller-2] [INFO] [1790325317.076303545] [turtle_controller]: Target updated → turtle37
+[spawner-3] [INFO] [1790325317.076550420] [turtle_spawner]: Killed turtle: turtle39
+[controller-2] [INFO] [1790325317.594967313] [turtle_controller]: Turtle turtle37 successfully removed!
+[spawner-3] [INFO] [1790325317.603134055] [turtle_spawner]: Killed turtle: turtle37
+[controller-2] [INFO] [1790325317.603204805] [turtle_controller]: Target updated → turtle40
+[turtlesim_node-1] [INFO] [1790325318.050125729] [turtlesim]: Spawning turtle [turtle41] at x=[4.166044], y=[4.853989], theta=[6.040520]
+[spawner-3] [INFO] [1790325318.050585812] [turtle_spawner]: New alive turtle: turtle41
+[controller-2] [INFO] [1790325318.853711679] [turtle_controller]: Turtle turtle40 successfully removed!
+[spawner-3] [INFO] [1790325318.867091166] [turtle_spawner]: Killed turtle: turtle40
+[controller-2] [INFO] [1790325318.867456457] [turtle_controller]: Target updated → turtle41
+[turtlesim_node-1] [INFO] [1790325319.040856285] [turtlesim]: Spawning turtle [turtle42] at x=[10.125030], y=[5.575000], theta=[0.283731]
+[spawner-3] [INFO] [1790325319.041803034] [turtle_spawner]: New alive turtle: turtle42
+[controller-2] [INFO] [1790325319.953034972] [turtle_controller]: Turtle turtle41 successfully removed!
+[spawner-3] [INFO] [1790325319.972314370] [turtle_spawner]: Killed turtle: turtle41
+[controller-2] [INFO] [1790325319.972810078] [turtle_controller]: Target updated → turtle42
+[turtlesim_node-1] [INFO] [1790325320.050997668] [turtlesim]: Spawning turtle [turtle43] at x=[10.893413], y=[2.872314], theta=[3.968263]
+[spawner-3] [INFO] [1790325320.051446210] [turtle_spawner]: New alive turtle: turtle43
+[turtlesim_node-1] [INFO] [1790325321.058134402] [turtlesim]: Spawning turtle [turtle44] at x=[5.427242], y=[0.470289], theta=[2.847688]
+[spawner-3] [INFO] [1790325321.059054318] [turtle_spawner]: New alive turtle: turtle44
+[controller-2] [INFO] [1790325321.252857383] [turtle_controller]: Turtle turtle42 successfully removed!
+[spawner-3] [INFO] [1790325321.268070576] [turtle_spawner]: Killed turtle: turtle42
+[controller-2] [INFO] [1790325321.268501076] [turtle_controller]: Target updated → turtle43
+[turtlesim_node-1] [INFO] [1790325322.049831205] [turtlesim]: Spawning turtle [turtle45] at x=[1.549900], y=[2.582333], theta=[1.827460]
+[spawner-3] [INFO] [1790325322.050388372] [turtle_spawner]: New alive turtle: turtle45
+[controller-2] [INFO] [1790325322.152906108] [turtle_controller]: Turtle turtle43 successfully removed!
+[controller-2] [INFO] [1790325322.162185725] [turtle_controller]: Target updated → turtle35
+[spawner-3] [INFO] [1790325322.162250391] [turtle_spawner]: Killed turtle: turtle43
+[turtlesim_node-1] [WARN] [1790325322.256896177] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.172968, y=8.189014])
+[turtlesim_node-1] [WARN] [1790325322.273106287] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.258952, y=8.239054])
+[turtlesim_node-1] [WARN] [1790325322.288144689] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.266677, y=8.238694])
+[turtlesim_node-1] [WARN] [1790325322.303710466] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.270881, y=8.194542])
+[turtlesim_node-1] [WARN] [1790325322.319287077] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.255514, y=8.109064])
+[turtlesim_node-1] [WARN] [1790325322.336808644] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.236545, y=7.988849])
+[turtlesim_node-1] [WARN] [1790325322.353231253] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.213438, y=7.842721])
+[turtlesim_node-1] [WARN] [1790325322.367197615] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.189548, y=7.679230])
+[turtlesim_node-1] [WARN] [1790325322.383292100] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.169433, y=7.509526])
+[turtlesim_node-1] [WARN] [1790325322.399663959] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.150541, y=7.332083])
+[turtlesim_node-1] [WARN] [1790325322.416047819] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.133643, y=7.153605])
+[turtlesim_node-1] [WARN] [1790325322.433104220] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.119992, y=6.976992])
+[turtlesim_node-1] [WARN] [1790325322.448031497] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.109320, y=6.804093])
+[turtlesim_node-1] [WARN] [1790325322.463538066] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.102168, y=6.641632])
+[turtlesim_node-1] [WARN] [1790325322.479393676] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.096300, y=6.478797])
+[turtlesim_node-1] [WARN] [1790325322.496099285] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.091686, y=6.321526])
+[turtlesim_node-1] [WARN] [1790325322.513021311] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.089191, y=6.175403])
+[turtlesim_node-1] [INFO] [1790325323.041533189] [turtlesim]: Spawning turtle [turtle46] at x=[3.284159], y=[3.193995], theta=[0.230727]
+[spawner-3] [INFO] [1790325323.041975439] [turtle_spawner]: New alive turtle: turtle46
+[controller-2] [INFO] [1790325323.404914769] [turtle_controller]: Turtle turtle35 successfully removed!
+[spawner-3] [INFO] [1790325323.410382097] [turtle_spawner]: Killed turtle: turtle35
+[controller-2] [INFO] [1790325323.410728096] [turtle_controller]: Target updated → turtle46
+[turtlesim_node-1] [INFO] [1790325324.054379708] [turtlesim]: Spawning turtle [turtle47] at x=[8.898839], y=[7.655906], theta=[5.097549]
+[spawner-3] [INFO] [1790325324.055251708] [turtle_spawner]: New alive turtle: turtle47
+[controller-2] [INFO] [1790325324.853366186] [turtle_controller]: Turtle turtle46 successfully removed!
+[spawner-3] [INFO] [1790325324.869391546] [turtle_spawner]: Killed turtle: turtle46
+[controller-2] [INFO] [1790325324.869791713] [turtle_controller]: Target updated → turtle45
+[turtlesim_node-1] [INFO] [1790325325.042264347] [turtlesim]: Spawning turtle [turtle48] at x=[8.510211], y=[6.915937], theta=[2.209112]
+[spawner-3] [INFO] [1790325325.043199763] [turtle_spawner]: New alive turtle: turtle48
+[controller-2] [INFO] [1790325325.592938934] [turtle_controller]: Turtle turtle45 successfully removed!
+[spawner-3] [INFO] [1790325325.602317718] [turtle_spawner]: Killed turtle: turtle45
+[controller-2] [INFO] [1790325325.602723509] [turtle_controller]: Target updated → turtle44
+[turtlesim_node-1] [INFO] [1790325326.050549565] [turtlesim]: Spawning turtle [turtle49] at x=[8.921881], y=[6.472561], theta=[3.536453]
+[spawner-3] [INFO] [1790325326.051532230] [turtle_spawner]: New alive turtle: turtle49
+[controller-2] [INFO] [1790325326.713253685] [turtle_controller]: Turtle turtle44 successfully removed!
+[spawner-3] [INFO] [1790325326.722751760] [turtle_spawner]: Killed turtle: turtle44
+[controller-2] [INFO] [1790325326.722880468] [turtle_controller]: Target updated → turtle49
+[turtlesim_node-1] [INFO] [1790325327.041308103] [turtlesim]: Spawning turtle [turtle50] at x=[4.130453], y=[8.205950], theta=[4.551535]
+[spawner-3] [INFO] [1790325327.041953935] [turtle_spawner]: New alive turtle: turtle50
+[controller-2] [INFO] [1790325327.973247038] [turtle_controller]: Turtle turtle49 successfully removed!
+[spawner-3] [INFO] [1790325327.987816150] [turtle_spawner]: Killed turtle: turtle49
+[controller-2] [INFO] [1790325327.988312733] [turtle_controller]: Target updated → turtle48
+[turtlesim_node-1] [INFO] [1790325328.052190136] [turtlesim]: Spawning turtle [turtle51] at x=[9.791626], y=[1.542443], theta=[2.684754]
+[spawner-3] [INFO] [1790325328.052904094] [turtle_spawner]: New alive turtle: turtle51
+[controller-2] [INFO] [1790325328.343158636] [turtle_controller]: Turtle turtle48 successfully removed!
+[spawner-3] [INFO] [1790325328.356145083] [turtle_spawner]: Killed turtle: turtle48
+[controller-2] [INFO] [1790325328.356193958] [turtle_controller]: Target updated → turtle47
+[controller-2] [INFO] [1790325328.793816415] [turtle_controller]: Turtle turtle47 successfully removed!
+[spawner-3] [INFO] [1790325328.803454073] [turtle_spawner]: Killed turtle: turtle47
+[controller-2] [INFO] [1790325328.803931406] [turtle_controller]: Target updated → turtle50
+[turtlesim_node-1] [INFO] [1790325329.042946284] [turtlesim]: Spawning turtle [turtle52] at x=[7.170610], y=[9.947750], theta=[4.702271]
+[spawner-3] [INFO] [1790325329.043698325] [turtle_spawner]: New alive turtle: turtle52
+[controller-2] [INFO] [1790325329.923533997] [turtle_controller]: Turtle turtle50 successfully removed!
+[spawner-3] [INFO] [1790325329.939996358] [turtle_spawner]: Killed turtle: turtle50
+[controller-2] [INFO] [1790325329.940087316] [turtle_controller]: Target updated → turtle52
+[turtlesim_node-1] [INFO] [1790325330.051276014] [turtlesim]: Spawning turtle [turtle53] at x=[2.239126], y=[6.415742], theta=[2.963138]
+[spawner-3] [INFO] [1790325330.051877055] [turtle_spawner]: New alive turtle: turtle53
+[controller-2] [INFO] [1790325330.963082962] [turtle_controller]: Turtle turtle52 successfully removed!
+[spawner-3] [INFO] [1790325330.981028822] [turtle_spawner]: Killed turtle: turtle52
+[controller-2] [INFO] [1790325330.981460072] [turtle_controller]: Target updated → turtle53
+[turtlesim_node-1] [INFO] [1790325331.042411647] [turtlesim]: Spawning turtle [turtle54] at x=[8.232398], y=[1.978701], theta=[2.760608]
+[spawner-3] [INFO] [1790325331.043361896] [turtle_spawner]: New alive turtle: turtle54
+[turtlesim_node-1] [INFO] [1790325332.049981737] [turtlesim]: Spawning turtle [turtle55] at x=[7.785499], y=[7.317566], theta=[6.055235]
+[spawner-3] [INFO] [1790325332.050442570] [turtle_spawner]: New alive turtle: turtle55
+[controller-2] [INFO] [1790325332.243083956] [turtle_controller]: Turtle turtle53 successfully removed!
+[spawner-3] [INFO] [1790325332.258435902] [turtle_spawner]: Killed turtle: turtle53
+[controller-2] [INFO] [1790325332.258703819] [turtle_controller]: Target updated → turtle55
+[turtlesim_node-1] [INFO] [1790325333.050752597] [turtlesim]: Spawning turtle [turtle56] at x=[7.145761], y=[8.767287], theta=[2.061439]
+[spawner-3] [INFO] [1790325333.052167721] [turtle_spawner]: New alive turtle: turtle56
+[controller-2] [INFO] [1790325333.512988021] [turtle_controller]: Turtle turtle55 successfully removed!
+[spawner-3] [INFO] [1790325333.522695389] [turtle_spawner]: Killed turtle: turtle55
+[controller-2] [INFO] [1790325333.522776222] [turtle_controller]: Target updated → turtle56
+[turtlesim_node-1] [INFO] [1790325334.049350638] [turtlesim]: Spawning turtle [turtle57] at x=[10.219279], y=[10.059016], theta=[5.113792]
+[spawner-3] [INFO] [1790325334.049865054] [turtle_spawner]: New alive turtle: turtle57
+[controller-2] [INFO] [1790325334.162861424] [turtle_controller]: Turtle turtle56 successfully removed!
+[spawner-3] [INFO] [1790325334.178471704] [turtle_spawner]: Killed turtle: turtle56
+[controller-2] [INFO] [1790325334.178991328] [turtle_controller]: Target updated → turtle57
+[controller-2] [INFO] [1790325335.043896904] [turtle_controller]: Turtle turtle57 successfully removed!
+[spawner-3] [INFO] [1790325335.059210850] [turtle_spawner]: Killed turtle: turtle57
+[controller-2] [INFO] [1790325335.059509308] [turtle_controller]: Target updated → turtle54
+[turtlesim_node-1] [INFO] [1790325335.060212391] [turtlesim]: Spawning turtle [turtle58] at x=[2.850085], y=[7.265615], theta=[4.645861]
+[spawner-3] [INFO] [1790325335.060820016] [turtle_spawner]: New alive turtle: turtle58
+[turtlesim_node-1] [WARN] [1790325335.200832617] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.151809, y=1.263508])
+[turtlesim_node-1] [WARN] [1790325335.215980438] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.296323, y=1.420186])
+[turtlesim_node-1] [WARN] [1790325335.232494551] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.262353, y=1.619794])
+[turtlesim_node-1] [WARN] [1790325335.248096039] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.223608, y=1.850727])
+[turtlesim_node-1] [WARN] [1790325335.263625318] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.188957, y=2.098497])
+[turtlesim_node-1] [WARN] [1790325335.280096847] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.152299, y=2.358078])
+[turtlesim_node-1] [WARN] [1790325335.296416752] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.119467, y=2.618800])
+[turtlesim_node-1] [WARN] [1790325335.312196323] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.092247, y=2.875309])
+[turtlesim_node-1] [INFO] [1790325336.050224590] [turtlesim]: Spawning turtle [turtle59] at x=[4.514636], y=[0.573475], theta=[1.877584]
+[spawner-3] [INFO] [1790325336.051137673] [turtle_spawner]: New alive turtle: turtle59
+[controller-2] [INFO] [1790325336.453501911] [turtle_controller]: Turtle turtle54 successfully removed!
+[spawner-3] [INFO] [1790325336.468853858] [turtle_spawner]: Killed turtle: turtle54
+[controller-2] [INFO] [1790325336.468987900] [turtle_controller]: Target updated → turtle51
+[turtlesim_node-1] [INFO] [1790325337.059784455] [turtlesim]: Spawning turtle [turtle60] at x=[9.838324], y=[4.479257], theta=[0.993723]
+[spawner-3] [INFO] [1790325337.060190038] [turtle_spawner]: New alive turtle: turtle60
+[controller-2] [INFO] [1790325337.112904832] [turtle_controller]: Turtle turtle51 successfully removed!
+[spawner-3] [INFO] [1790325337.122969533] [turtle_spawner]: Killed turtle: turtle51
+[controller-2] [INFO] [1790325337.123331074] [turtle_controller]: Target updated → turtle60
+[controller-2] [INFO] [1790325338.043092685] [turtle_controller]: Turtle turtle60 successfully removed!
+[spawner-3] [INFO] [1790325338.053546719] [turtle_spawner]: Killed turtle: turtle60
+[controller-2] [INFO] [1790325338.053789719] [turtle_controller]: Target updated → turtle59
+[turtlesim_node-1] [INFO] [1790325338.054872718] [turtlesim]: Spawning turtle [turtle61] at x=[10.607339], y=[3.241553], theta=[1.656335]
+[spawner-3] [INFO] [1790325338.055836134] [turtle_spawner]: New alive turtle: turtle61
+[turtlesim_node-1] [INFO] [1790325339.043715582] [turtlesim]: Spawning turtle [turtle62] at x=[1.558279], y=[8.277804], theta=[0.438507]
+[spawner-3] [INFO] [1790325339.044577082] [turtle_spawner]: New alive turtle: turtle62
+[controller-2] [INFO] [1790325339.323117757] [turtle_controller]: Turtle turtle59 successfully removed!
+[spawner-3] [INFO] [1790325339.330267252] [turtle_spawner]: Killed turtle: turtle59
+[controller-2] [INFO] [1790325339.331030627] [turtle_controller]: Target updated → turtle61
+[turtlesim_node-1] [WARN] [1790325339.472103401] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=4.888079, y=11.093813])
+[turtlesim_node-1] [WARN] [1790325339.488663014] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.042821, y=11.224408])
+[turtlesim_node-1] [WARN] [1790325339.503650920] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.223725, y=11.196966])
+[turtlesim_node-1] [WARN] [1790325339.519950867] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.421111, y=11.162686])
+[turtlesim_node-1] [WARN] [1790325339.535591356] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.628278, y=11.130333])
+[turtlesim_node-1] [WARN] [1790325339.553686718] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.838297, y=11.100997])
+[turtlesim_node-1] [INFO] [1790325340.051327363] [turtlesim]: Spawning turtle [turtle63] at x=[7.088748], y=[6.540279], theta=[0.683192]
+[spawner-3] [INFO] [1790325340.051841821] [turtle_spawner]: New alive turtle: turtle63
+[controller-2] [INFO] [1790325340.613119093] [turtle_controller]: Turtle turtle61 successfully removed!
+[spawner-3] [INFO] [1790325340.628956999] [turtle_spawner]: Killed turtle: turtle61
+[controller-2] [INFO] [1790325340.629015791] [turtle_controller]: Target updated → turtle63
+[turtlesim_node-1] [INFO] [1790325341.041950835] [turtlesim]: Spawning turtle [turtle64] at x=[5.199134], y=[5.942594], theta=[5.321473]
+[spawner-3] [INFO] [1790325341.042550709] [turtle_spawner]: New alive turtle: turtle64
+[controller-2] [INFO] [1790325341.754227261] [turtle_controller]: Turtle turtle63 successfully removed!
+[spawner-3] [INFO] [1790325341.763662088] [turtle_spawner]: Killed turtle: turtle63
+[controller-2] [INFO] [1790325341.764076629] [turtle_controller]: Target updated → turtle64
+[turtlesim_node-1] [INFO] [1790325342.050799766] [turtlesim]: Spawning turtle [turtle65] at x=[4.376839], y=[3.716153], theta=[3.060538]
+[spawner-3] [INFO] [1790325342.051386849] [turtle_spawner]: New alive turtle: turtle65
+[controller-2] [INFO] [1790325342.522836405] [turtle_controller]: Turtle turtle64 successfully removed!
+[spawner-3] [INFO] [1790325342.531101816] [turtle_spawner]: Killed turtle: turtle64
+[controller-2] [INFO] [1790325342.531485608] [turtle_controller]: Target updated → turtle65
+[turtlesim_node-1] [INFO] [1790325343.057249712] [turtlesim]: Spawning turtle [turtle66] at x=[2.184227], y=[5.234666], theta=[1.645304]
+[spawner-3] [INFO] [1790325343.057704336] [turtle_spawner]: New alive turtle: turtle66
+[controller-2] [INFO] [1790325343.353758723] [turtle_controller]: Turtle turtle65 successfully removed!
+[spawner-3] [INFO] [1790325343.363328800] [turtle_spawner]: Killed turtle: turtle65
+[controller-2] [INFO] [1790325343.363414550] [turtle_controller]: Target updated → turtle66
+[turtlesim_node-1] [INFO] [1790325344.051192679] [turtlesim]: Spawning turtle [turtle67] at x=[10.893890], y=[10.660410], theta=[1.411098]
+[spawner-3] [INFO] [1790325344.051972928] [turtle_spawner]: New alive turtle: turtle67
+[controller-2] [INFO] [1790325344.232880102] [turtle_controller]: Turtle turtle66 successfully removed!
+[spawner-3] [INFO] [1790325344.245222969] [turtle_spawner]: Killed turtle: turtle66
+[controller-2] [INFO] [1790325344.245241761] [turtle_controller]: Target updated → turtle58
+[controller-2] [INFO] [1790325345.013828512] [turtle_controller]: Turtle turtle58 successfully removed!
+[spawner-3] [INFO] [1790325345.027330420] [turtle_spawner]: Killed turtle: turtle58
+[controller-2] [INFO] [1790325345.027785003] [turtle_controller]: Target updated → turtle62
+[turtlesim_node-1] [INFO] [1790325345.041526619] [turtlesim]: Spawning turtle [turtle68] at x=[9.470149], y=[0.217529], theta=[5.695063]
+[spawner-3] [INFO] [1790325345.041949411] [turtle_spawner]: New alive turtle: turtle68
+[controller-2] [INFO] [1790325345.702845490] [turtle_controller]: Turtle turtle62 successfully removed!
+[spawner-3] [INFO] [1790325345.717247272] [turtle_spawner]: Killed turtle: turtle62
+[controller-2] [INFO] [1790325345.717317189] [turtle_controller]: Target updated → turtle67
+[turtlesim_node-1] [WARN] [1790325346.000877134] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=3.379689, y=-0.000631])
+[turtlesim_node-1] [WARN] [1790325346.015431083] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=3.637119, y=-0.066758])
+[turtlesim_node-1] [WARN] [1790325346.033146655] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=3.897784, y=-0.052736])
+[turtlesim_node-1] [INFO] [1790325346.049340812] [turtlesim]: Spawning turtle [turtle69] at x=[4.721781], y=[7.706764], theta=[4.473320]
+[turtlesim_node-1] [WARN] [1790325346.049397145] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=4.152309, y=-0.039292])
+[spawner-3] [INFO] [1790325346.049832311] [turtle_spawner]: New alive turtle: turtle69
+[turtlesim_node-1] [WARN] [1790325346.063462428] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=4.391475, y=-0.028388])
+[turtlesim_node-1] [WARN] [1790325346.080268001] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=4.631488, y=-0.019997])
+[turtlesim_node-1] [WARN] [1790325346.096717949] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=4.863781, y=-0.012347])
+[turtlesim_node-1] [WARN] [1790325346.112843730] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.087988, y=-0.006295])
+[turtlesim_node-1] [WARN] [1790325346.127317846] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.304148, y=-0.001572])
+[controller-2] [INFO] [1790325346.933496469] [turtle_controller]: Turtle turtle67 successfully removed!
+[spawner-3] [INFO] [1790325346.945403795] [turtle_spawner]: Killed turtle: turtle67
+[controller-2] [INFO] [1790325346.946237377] [turtle_controller]: Target updated → turtle69
+[turtlesim_node-1] [INFO] [1790325347.041912652] [turtlesim]: Spawning turtle [turtle70] at x=[7.217840], y=[0.494850], theta=[5.437696]
+[spawner-3] [INFO] [1790325347.042991984] [turtle_spawner]: New alive turtle: turtle70
+[turtlesim_node-1] [WARN] [1790325347.087900832] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.124734, y=1.108753])
+[turtlesim_node-1] [WARN] [1790325347.103990197] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.093853, y=1.320544])
+[turtlesim_node-1] [INFO] [1790325348.051208536] [turtlesim]: Spawning turtle [turtle71] at x=[6.106586], y=[2.626531], theta=[0.477039]
+[spawner-3] [INFO] [1790325348.052198869] [turtle_spawner]: New alive turtle: turtle71
+[controller-2] [INFO] [1790325348.263344659] [turtle_controller]: Turtle turtle69 successfully removed!
+[spawner-3] [INFO] [1790325348.277714275] [turtle_spawner]: Killed turtle: turtle69
+[controller-2] [INFO] [1790325348.277786817] [turtle_controller]: Target updated → turtle71
+[turtlesim_node-1] [INFO] [1790325349.058110351] [turtlesim]: Spawning turtle [turtle72] at x=[4.604380], y=[7.441782], theta=[3.708611]
+[spawner-3] [INFO] [1790325349.058509559] [turtle_spawner]: New alive turtle: turtle72
+[controller-2] [INFO] [1790325349.442951876] [turtle_controller]: Turtle turtle71 successfully removed!
+[spawner-3] [INFO] [1790325349.457673618] [turtle_spawner]: Killed turtle: turtle71
+[controller-2] [INFO] [1790325349.457757826] [turtle_controller]: Target updated → turtle70
+[turtlesim_node-1] [INFO] [1790325350.050721438] [turtlesim]: Spawning turtle [turtle73] at x=[2.382680], y=[10.684506], theta=[5.528504]
+[spawner-3] [INFO] [1790325350.051184271] [turtle_spawner]: New alive turtle: turtle73
+[controller-2] [INFO] [1790325350.282895222] [turtle_controller]: Turtle turtle70 successfully removed!
+[spawner-3] [INFO] [1790325350.292750675] [turtle_spawner]: Killed turtle: turtle70
+[controller-2] [INFO] [1790325350.293031299] [turtle_controller]: Target updated → turtle68
+[turtlesim_node-1] [INFO] [1790325351.041998872] [turtlesim]: Spawning turtle [turtle74] at x=[8.527611], y=[5.489421], theta=[3.010571]
+[spawner-3] [INFO] [1790325351.042380288] [turtle_spawner]: New alive turtle: turtle74
+[controller-2] [INFO] [1790325351.093354468] [turtle_controller]: Turtle turtle68 successfully removed!
+[spawner-3] [INFO] [1790325351.107226918] [turtle_spawner]: Killed turtle: turtle68
+[controller-2] [INFO] [1790325351.107577085] [turtle_controller]: Target updated → turtle74
+[turtlesim_node-1] [INFO] [1790325352.050162183] [turtlesim]: Spawning turtle [turtle75] at x=[9.573654], y=[1.195933], theta=[3.367264]
+[spawner-3] [INFO] [1790325352.051557641] [turtle_spawner]: New alive turtle: turtle75
+[controller-2] [INFO] [1790325352.282877515] [turtle_controller]: Turtle turtle74 successfully removed!
+[spawner-3] [INFO] [1790325352.291889093] [turtle_spawner]: Killed turtle: turtle74
+[controller-2] [INFO] [1790325352.292068176] [turtle_controller]: Target updated → turtle75
+[turtlesim_node-1] [INFO] [1790325353.041481101] [turtlesim]: Spawning turtle [turtle76] at x=[6.538937], y=[7.026536], theta=[3.395057]
+[spawner-3] [INFO] [1790325353.042553600] [turtle_spawner]: New alive turtle: turtle76
+[controller-2] [INFO] [1790325353.433920349] [turtle_controller]: Turtle turtle75 successfully removed!
+[spawner-3] [INFO] [1790325353.442574011] [turtle_spawner]: Killed turtle: turtle75
+[controller-2] [INFO] [1790325353.443018053] [turtle_controller]: Target updated → turtle76
+[turtlesim_node-1] [INFO] [1790325354.050287479] [turtlesim]: Spawning turtle [turtle77] at x=[6.979119], y=[1.103134], theta=[2.902497]
+[spawner-3] [INFO] [1790325354.051826145] [turtle_spawner]: New alive turtle: turtle77
+[controller-2] [INFO] [1790325354.764237108] [turtle_controller]: Turtle turtle76 successfully removed!
+[spawner-3] [INFO] [1790325354.771908562] [turtle_spawner]: Killed turtle: turtle76
+[controller-2] [INFO] [1790325354.771940854] [turtle_controller]: Target updated → turtle72
+[turtlesim_node-1] [INFO] [1790325355.041815047] [turtlesim]: Spawning turtle [turtle78] at x=[6.958857], y=[4.061412], theta=[4.798086]
+[spawner-3] [INFO] [1790325355.042841880] [turtle_spawner]: New alive turtle: turtle78
+[controller-2] [INFO] [1790325355.522837761] [turtle_controller]: Turtle turtle72 successfully removed!
+[spawner-3] [INFO] [1790325355.538780003] [turtle_spawner]: Killed turtle: turtle72
+[controller-2] [INFO] [1790325355.538929294] [turtle_controller]: Target updated → turtle78
+[turtlesim_node-1] [INFO] [1790325356.050303785] [turtlesim]: Spawning turtle [turtle79] at x=[0.720128], y=[10.325595], theta=[0.555417]
+[spawner-3] [INFO] [1790325356.051031576] [turtle_spawner]: New alive turtle: turtle79
+[controller-2] [INFO] [1790325356.613743964] [turtle_controller]: Turtle turtle78 successfully removed!
+[spawner-3] [INFO] [1790325356.626287416] [turtle_spawner]: Killed turtle: turtle78
+[controller-2] [INFO] [1790325356.626893582] [turtle_controller]: Target updated → turtle77
+[turtlesim_node-1] [INFO] [1790325357.042181377] [turtlesim]: Spawning turtle [turtle80] at x=[9.239441], y=[8.515224], theta=[1.371724]
+[spawner-3] [INFO] [1790325357.043026168] [turtle_spawner]: New alive turtle: turtle80
+[controller-2] [INFO] [1790325357.523047853] [turtle_controller]: Turtle turtle77 successfully removed!
+[spawner-3] [INFO] [1790325357.539099179] [turtle_spawner]: Killed turtle: turtle77
+[controller-2] [INFO] [1790325357.539269096] [turtle_controller]: Target updated → turtle80
+[turtlesim_node-1] [INFO] [1790325358.050845974] [turtlesim]: Spawning turtle [turtle81] at x=[7.761536], y=[0.540299], theta=[5.991444]
+[spawner-3] [INFO] [1790325358.051693057] [turtle_spawner]: New alive turtle: turtle81
+[controller-2] [INFO] [1790325358.933032768] [turtle_controller]: Turtle turtle80 successfully removed!
+[spawner-3] [INFO] [1790325358.949855218] [turtle_spawner]: Killed turtle: turtle80
+[controller-2] [INFO] [1790325358.950410051] [turtle_controller]: Target updated → turtle73
+[turtlesim_node-1] [INFO] [1790325359.042315425] [turtlesim]: Spawning turtle [turtle82] at x=[6.534608], y=[8.413210], theta=[3.967690]
+[spawner-3] [INFO] [1790325359.042907258] [turtle_spawner]: New alive turtle: turtle82
+[turtlesim_node-1] [INFO] [1790325360.051693839] [turtlesim]: Spawning turtle [turtle83] at x=[2.814148], y=[6.934216], theta=[2.267590]
+[spawner-3] [INFO] [1790325360.052568880] [turtle_spawner]: New alive turtle: turtle83
+[controller-2] [INFO] [1790325360.212905059] [turtle_controller]: Turtle turtle73 successfully removed!
+[spawner-3] [INFO] [1790325360.227323094] [turtle_spawner]: Killed turtle: turtle73
+[controller-2] [INFO] [1790325360.227374094] [turtle_controller]: Target updated → turtle79
+[controller-2] [INFO] [1790325360.922868576] [turtle_controller]: Turtle turtle79 successfully removed!
+[spawner-3] [INFO] [1790325360.932492072] [turtle_spawner]: Killed turtle: turtle79
+[controller-2] [INFO] [1790325360.932984947] [turtle_controller]: Target updated → turtle83
+[turtlesim_node-1] [INFO] [1790325361.041678982] [turtlesim]: Spawning turtle [turtle84] at x=[2.494388], y=[1.023072], theta=[2.682321]
+[spawner-3] [INFO] [1790325361.042372440] [turtle_spawner]: New alive turtle: turtle84
+[controller-2] [INFO] [1790325361.972813621] [turtle_controller]: Turtle turtle83 successfully removed!
+[spawner-3] [INFO] [1790325361.989568447] [turtle_spawner]: Killed turtle: turtle83
+[controller-2] [INFO] [1790325361.990323572] [turtle_controller]: Target updated → turtle82
+[turtlesim_node-1] [INFO] [1790325362.050741588] [turtlesim]: Spawning turtle [turtle85] at x=[2.070977], y=[2.504992], theta=[5.038846]
+[spawner-3] [INFO] [1790325362.051340963] [turtle_spawner]: New alive turtle: turtle85
+[controller-2] [INFO] [1790325363.013079434] [turtle_controller]: Turtle turtle82 successfully removed!
+[spawner-3] [INFO] [1790325363.027100679] [turtle_spawner]: Killed turtle: turtle82
+[controller-2] [INFO] [1790325363.027327137] [turtle_controller]: Target updated → turtle85
+[turtlesim_node-1] [INFO] [1790325363.041451589] [turtlesim]: Spawning turtle [turtle86] at x=[9.646302], y=[6.306047], theta=[3.411885]
+[spawner-3] [INFO] [1790325363.041986131] [turtle_spawner]: New alive turtle: turtle86
+[turtlesim_node-1] [INFO] [1790325364.051485929] [turtlesim]: Spawning turtle [turtle87] at x=[6.653867], y=[8.479553], theta=[5.684171]
+[spawner-3] [INFO] [1790325364.052038928] [turtle_spawner]: New alive turtle: turtle87
+[controller-2] [INFO] [1790325364.393344419] [turtle_controller]: Turtle turtle85 successfully removed!
+[spawner-3] [INFO] [1790325364.403524165] [turtle_spawner]: Killed turtle: turtle85
+[controller-2] [INFO] [1790325364.404017039] [turtle_controller]: Target updated → turtle84
+[turtlesim_node-1] [INFO] [1790325365.042347413] [turtlesim]: Spawning turtle [turtle88] at x=[1.778278], y=[0.697108], theta=[5.972919]
+[spawner-3] [INFO] [1790325365.042855121] [turtle_spawner]: New alive turtle: turtle88
+[controller-2] [INFO] [1790325365.053073325] [turtle_controller]: Turtle turtle84 successfully removed!
+[spawner-3] [INFO] [1790325365.059771573] [turtle_spawner]: Killed turtle: turtle84
+[controller-2] [INFO] [1790325365.059884031] [turtle_controller]: Target updated → turtle88
+[controller-2] [INFO] [1790325365.443069093] [turtle_controller]: Turtle turtle88 successfully removed!
+[spawner-3] [INFO] [1790325365.458248879] [turtle_spawner]: Killed turtle: turtle88
+[controller-2] [INFO] [1790325365.458529754] [turtle_controller]: Target updated → turtle81
+[turtlesim_node-1] [WARN] [1790325365.615632569] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=2.011558, y=11.155946])
+[turtlesim_node-1] [WARN] [1790325365.631645729] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=2.121117, y=11.240112])
+[turtlesim_node-1] [WARN] [1790325365.648890473] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=2.255992, y=11.219844])
+[turtlesim_node-1] [WARN] [1790325365.663912300] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=2.406472, y=11.199976])
+[turtlesim_node-1] [WARN] [1790325365.679358128] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=2.570510, y=11.178755])
+[turtlesim_node-1] [WARN] [1790325365.695322497] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=2.737417, y=11.159733])
+[turtlesim_node-1] [WARN] [1790325365.711576949] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=2.910551, y=11.142755])
+[turtlesim_node-1] [WARN] [1790325365.729492150] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=3.083375, y=11.127220])
+[turtlesim_node-1] [WARN] [1790325365.743476978] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=3.248247, y=11.115528])
+[turtlesim_node-1] [WARN] [1790325365.759698180] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=3.414387, y=11.105914])
+[turtlesim_node-1] [WARN] [1790325365.775890299] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=3.570273, y=11.098647])
+[turtlesim_node-1] [WARN] [1790325365.791678876] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=3.726424, y=11.092467])
+[turtlesim_node-1] [INFO] [1790325366.051463569] [turtlesim]: Spawning turtle [turtle89] at x=[8.964565], y=[2.007491], theta=[3.677868]
+[spawner-3] [INFO] [1790325366.051939819] [turtle_spawner]: New alive turtle: turtle89
+[controller-2] [INFO] [1790325366.692837790] [turtle_controller]: Turtle turtle81 successfully removed!
+[spawner-3] [INFO] [1790325366.707818660] [turtle_spawner]: Killed turtle: turtle81
+[controller-2] [INFO] [1790325366.707882618] [turtle_controller]: Target updated → turtle89
+[turtlesim_node-1] [INFO] [1790325367.041659745] [turtlesim]: Spawning turtle [turtle90] at x=[10.699783], y=[2.783371], theta=[2.416450]
+[spawner-3] [INFO] [1790325367.042377870] [turtle_spawner]: New alive turtle: turtle90
+[controller-2] [INFO] [1790325367.442795227] [turtle_controller]: Turtle turtle89 successfully removed!
+[spawner-3] [INFO] [1790325367.458239721] [turtle_spawner]: Killed turtle: turtle89
+[controller-2] [INFO] [1790325367.458286930] [turtle_controller]: Target updated → turtle90
+[turtlesim_node-1] [INFO] [1790325368.050231510] [turtlesim]: Spawning turtle [turtle91] at x=[0.392076], y=[3.186007], theta=[3.511626]
+[spawner-3] [INFO] [1790325368.050652427] [turtle_spawner]: New alive turtle: turtle91
+[controller-2] [INFO] [1790325368.184684422] [turtle_controller]: Turtle turtle90 successfully removed!
+[spawner-3] [INFO] [1790325368.195500710] [turtle_spawner]: Killed turtle: turtle90
+[controller-2] [INFO] [1790325368.195863210] [turtle_controller]: Target updated → turtle86
+[turtlesim_node-1] [INFO] [1790325369.041476752] [turtlesim]: Spawning turtle [turtle92] at x=[2.421483], y=[2.170066], theta=[0.861327]
+[spawner-3] [INFO] [1790325369.042443710] [turtle_spawner]: New alive turtle: turtle92
+[controller-2] [INFO] [1790325369.202888490] [turtle_controller]: Turtle turtle86 successfully removed!
+[spawner-3] [INFO] [1790325369.218962943] [turtle_spawner]: Killed turtle: turtle86
+[controller-2] [INFO] [1790325369.219438193] [turtle_controller]: Target updated → turtle87
+[turtlesim_node-1] [INFO] [1790325370.049586001] [turtlesim]: Spawning turtle [turtle93] at x=[4.746181], y=[2.218935], theta=[4.550659]
+[spawner-3] [INFO] [1790325370.051100208] [turtle_spawner]: New alive turtle: turtle93
+[controller-2] [INFO] [1790325370.203028451] [turtle_controller]: Turtle turtle87 successfully removed!
+[spawner-3] [INFO] [1790325370.210759907] [turtle_spawner]: Killed turtle: turtle87
+[controller-2] [INFO] [1790325370.212189282] [turtle_controller]: Target updated → turtle93
+[turtlesim_node-1] [INFO] [1790325371.041457308] [turtlesim]: Spawning turtle [turtle94] at x=[2.637586], y=[4.087099], theta=[1.055566]
+[spawner-3] [INFO] [1790325371.042377266] [turtle_spawner]: New alive turtle: turtle94
+[controller-2] [INFO] [1790325371.483541256] [turtle_controller]: Turtle turtle93 successfully removed!
+[spawner-3] [INFO] [1790325371.490594212] [turtle_spawner]: Killed turtle: turtle93
+[controller-2] [INFO] [1790325371.490805462] [turtle_controller]: Target updated → turtle92
+[turtlesim_node-1] [INFO] [1790325372.050943456] [turtlesim]: Spawning turtle [turtle95] at x=[7.317329], y=[3.771241], theta=[2.662418]
+[spawner-3] [INFO] [1790325372.051513581] [turtle_spawner]: New alive turtle: turtle95
+[controller-2] [INFO] [1790325372.292883718] [turtle_controller]: Turtle turtle92 successfully removed!
+[spawner-3] [INFO] [1790325372.308518839] [turtle_spawner]: Killed turtle: turtle92
+[controller-2] [INFO] [1790325372.308948963] [turtle_controller]: Target updated → turtle94
+[turtlesim_node-1] [INFO] [1790325373.041547247] [turtlesim]: Spawning turtle [turtle96] at x=[9.628813], y=[7.661620], theta=[0.518891]
+[spawner-3] [INFO] [1790325373.042673414] [turtle_spawner]: New alive turtle: turtle96
+[controller-2] [INFO] [1790325373.052949536] [turtle_controller]: Turtle turtle94 successfully removed!
+[spawner-3] [INFO] [1790325373.058751826] [turtle_spawner]: Killed turtle: turtle94
+[controller-2] [INFO] [1790325373.059542992] [turtle_controller]: Target updated → turtle91
+[controller-2] [INFO] [1790325373.893124506] [turtle_controller]: Turtle turtle91 successfully removed!
+[spawner-3] [INFO] [1790325373.907301794] [turtle_spawner]: Killed turtle: turtle91
+[controller-2] [INFO] [1790325373.907359460] [turtle_controller]: Target updated → turtle95
+[turtlesim_node-1] [INFO] [1790325374.049969795] [turtlesim]: Spawning turtle [turtle97] at x=[0.138384], y=[1.709265], theta=[2.815997]
+[spawner-3] [INFO] [1790325374.051948628] [turtle_spawner]: New alive turtle: turtle97
+[turtlesim_node-1] [INFO] [1790325375.041238235] [turtlesim]: Spawning turtle [turtle98] at x=[8.959140], y=[4.383871], theta=[5.614568]
+[spawner-3] [INFO] [1790325375.042032235] [turtle_spawner]: New alive turtle: turtle98
+[controller-2] [INFO] [1790325375.243098266] [turtle_controller]: Turtle turtle95 successfully removed!
+[spawner-3] [INFO] [1790325375.252070764] [turtle_spawner]: Killed turtle: turtle95
+[controller-2] [INFO] [1790325375.252328222] [turtle_controller]: Target updated → turtle98
+[controller-2] [INFO] [1790325375.964305788] [turtle_controller]: Turtle turtle98 successfully removed!
+[spawner-3] [INFO] [1790325375.971809078] [turtle_spawner]: Killed turtle: turtle98
+[controller-2] [INFO] [1790325375.972320453] [turtle_controller]: Target updated → turtle96
+[turtlesim_node-1] [INFO] [1790325376.052283849] [turtlesim]: Spawning turtle [turtle99] at x=[2.772287], y=[10.391678], theta=[0.535947]
+[spawner-3] [INFO] [1790325376.053137932] [turtle_spawner]: New alive turtle: turtle99
+[controller-2] [INFO] [1790325376.932863299] [turtle_controller]: Turtle turtle96 successfully removed!
+[spawner-3] [INFO] [1790325376.946746712] [turtle_spawner]: Killed turtle: turtle96
+[controller-2] [INFO] [1790325376.946764920] [turtle_controller]: Target updated → turtle99
+[turtlesim_node-1] [INFO] [1790325377.043952855] [turtlesim]: Spawning turtle [turtle100] at x=[1.087315], y=[9.511742], theta=[3.400154]
+[spawner-3] [INFO] [1790325377.044804980] [turtle_spawner]: New alive turtle: turtle100
+[turtlesim_node-1] [INFO] [1790325378.049958411] [turtlesim]: Spawning turtle [turtle101] at x=[8.319377], y=[8.168905], theta=[0.091548]
+[spawner-3] [INFO] [1790325378.050486411] [turtle_spawner]: New alive turtle: turtle101
+[controller-2] [INFO] [1790325378.233444662] [turtle_controller]: Turtle turtle99 successfully removed!
+[spawner-3] [INFO] [1790325378.243236952] [turtle_spawner]: Killed turtle: turtle99
+[controller-2] [INFO] [1790325378.243593452] [turtle_controller]: Target updated → turtle100
+[controller-2] [INFO] [1790325378.983799995] [turtle_controller]: Turtle turtle100 successfully removed!
+[spawner-3] [INFO] [1790325378.995363201] [turtle_spawner]: Killed turtle: turtle100
+[controller-2] [INFO] [1790325378.995870743] [turtle_controller]: Target updated → turtle101
+[turtlesim_node-1] [INFO] [1790325379.041527775] [turtlesim]: Spawning turtle [turtle102] at x=[10.907888], y=[4.875354], theta=[2.067151]
+[spawner-3] [INFO] [1790325379.042066524] [turtle_spawner]: New alive turtle: turtle102
+[turtlesim_node-1] [INFO] [1790325380.051718729] [turtlesim]: Spawning turtle [turtle103] at x=[6.062057], y=[9.805241], theta=[3.123645]
+[spawner-3] [INFO] [1790325380.052254729] [turtle_spawner]: New alive turtle: turtle103
+[controller-2] [INFO] [1790325380.343032463] [turtle_controller]: Turtle turtle101 successfully removed!
+[spawner-3] [INFO] [1790325380.353519503] [turtle_spawner]: Killed turtle: turtle101
+[controller-2] [INFO] [1790325380.353698045] [turtle_controller]: Target updated → turtle103
+[turtlesim_node-1] [INFO] [1790325381.041990784] [turtlesim]: Spawning turtle [turtle104] at x=[9.559350], y=[5.427473], theta=[0.395331]
+[spawner-3] [INFO] [1790325381.042773825] [turtle_spawner]: New alive turtle: turtle104
+[controller-2] [INFO] [1790325381.252889036] [turtle_controller]: Turtle turtle103 successfully removed!
+[spawner-3] [INFO] [1790325381.266888200] [turtle_spawner]: Killed turtle: turtle103
+[controller-2] [INFO] [1790325381.267030909] [turtle_controller]: Target updated → turtle104
+[turtlesim_node-1] [INFO] [1790325382.051378263] [turtlesim]: Spawning turtle [turtle105] at x=[2.987226], y=[3.150578], theta=[4.870210]
+[spawner-3] [INFO] [1790325382.051816305] [turtle_spawner]: New alive turtle: turtle105
+[controller-2] [INFO] [1790325382.504185101] [turtle_controller]: Turtle turtle104 successfully removed!
+[spawner-3] [INFO] [1790325382.513914974] [turtle_spawner]: Killed turtle: turtle104
+[controller-2] [INFO] [1790325382.514072891] [turtle_controller]: Target updated → turtle102
+[turtlesim_node-1] [INFO] [1790325383.041234091] [turtlesim]: Spawning turtle [turtle106] at x=[5.923130], y=[9.219281], theta=[2.311276]
+[spawner-3] [INFO] [1790325383.041829591] [turtle_spawner]: New alive turtle: turtle106
+[controller-2] [INFO] [1790325383.152809448] [turtle_controller]: Turtle turtle102 successfully removed!
+[spawner-3] [INFO] [1790325383.170848529] [turtle_spawner]: Killed turtle: turtle102
+[controller-2] [INFO] [1790325383.170857987] [turtle_controller]: Target updated → turtle106
+[turtlesim_node-1] [WARN] [1790325383.295571092] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.241922, y=5.842232])
+[turtlesim_node-1] [WARN] [1790325383.311534548] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.204236, y=5.680321])
+[turtlesim_node-1] [WARN] [1790325383.328667920] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.163636, y=5.490544])
+[turtlesim_node-1] [WARN] [1790325383.343381668] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.126240, y=5.282895])
+[turtlesim_node-1] [INFO] [1790325384.050360929] [turtlesim]: Spawning turtle [turtle107] at x=[2.420041], y=[2.288806], theta=[3.123238]
+[spawner-3] [INFO] [1790325384.050820137] [turtle_spawner]: New alive turtle: turtle107
+[controller-2] [INFO] [1790325384.472821365] [turtle_controller]: Turtle turtle106 successfully removed!
+[spawner-3] [INFO] [1790325384.483538989] [turtle_spawner]: Killed turtle: turtle106
+[controller-2] [INFO] [1790325384.483977739] [turtle_controller]: Target updated → turtle105
+[turtlesim_node-1] [INFO] [1790325385.057630570] [turtlesim]: Spawning turtle [turtle108] at x=[3.525497], y=[3.353868], theta=[0.427722]
+[spawner-3] [INFO] [1790325385.058122487] [turtle_spawner]: New alive turtle: turtle108
+[controller-2] [INFO] [1790325385.752931599] [turtle_controller]: Turtle turtle105 successfully removed!
+[spawner-3] [INFO] [1790325385.763089431] [turtle_spawner]: Killed turtle: turtle105
+[controller-2] [INFO] [1790325385.763588223] [turtle_controller]: Target updated → turtle108
+[controller-2] [INFO] [1790325385.872870083] [turtle_controller]: Turtle turtle108 successfully removed!
+[spawner-3] [INFO] [1790325385.891232747] [turtle_spawner]: Killed turtle: turtle108
+[controller-2] [INFO] [1790325385.891693872] [turtle_controller]: Target updated → turtle107
+[turtlesim_node-1] [INFO] [1790325386.048898392] [turtlesim]: Spawning turtle [turtle109] at x=[0.253347], y=[4.325961], theta=[6.269358]
+[spawner-3] [INFO] [1790325386.049302934] [turtle_spawner]: New alive turtle: turtle109
+[controller-2] [INFO] [1790325386.453330300] [turtle_controller]: Turtle turtle107 successfully removed!
+[spawner-3] [INFO] [1790325386.468435464] [turtle_spawner]: Killed turtle: turtle107
+[controller-2] [INFO] [1790325386.468903839] [turtle_controller]: Target updated → turtle97
+[turtlesim_node-1] [INFO] [1790325387.044180976] [turtlesim]: Spawning turtle [turtle110] at x=[4.678423], y=[0.114162], theta=[6.235064]
+[spawner-3] [INFO] [1790325387.045045059] [turtle_spawner]: New alive turtle: turtle110
+[controller-2] [INFO] [1790325387.282888073] [turtle_controller]: Turtle turtle97 successfully removed!
+[spawner-3] [INFO] [1790325387.299083947] [turtle_spawner]: Killed turtle: turtle97
+[controller-2] [INFO] [1790325387.299525363] [turtle_controller]: Target updated → turtle109
+[turtlesim_node-1] [WARN] [1790325387.504053423] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.026032, y=8.936421])
+[turtlesim_node-1] [WARN] [1790325387.520150630] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.028686, y=8.864167])
+[turtlesim_node-1] [WARN] [1790325387.535482420] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.022145, y=8.793345])
+[turtlesim_node-1] [WARN] [1790325387.551943209] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.016785, y=8.721066])
+[turtlesim_node-1] [WARN] [1790325387.568919208] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.011707, y=8.649835])
+[turtlesim_node-1] [WARN] [1790325387.583445164] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.007778, y=8.582556])
+[turtlesim_node-1] [WARN] [1790325387.599735996] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.004554, y=8.514983])
+[turtlesim_node-1] [WARN] [1790325387.615346744] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.001721, y=8.449528])
+[turtlesim_node-1] [INFO] [1790325388.048906820] [turtlesim]: Spawning turtle [turtle111] at x=[5.866519], y=[9.003845], theta=[0.236197]
+[spawner-3] [INFO] [1790325388.049389778] [turtle_spawner]: New alive turtle: turtle111
+[controller-2] [INFO] [1790325388.152822809] [turtle_controller]: Turtle turtle109 successfully removed!
+[spawner-3] [INFO] [1790325388.162590475] [turtle_spawner]: Killed turtle: turtle109
+[controller-2] [INFO] [1790325388.162900058] [turtle_controller]: Target updated → turtle110
+[turtlesim_node-1] [INFO] [1790325389.041479928] [turtlesim]: Spawning turtle [turtle112] at x=[8.575632], y=[9.296682], theta=[1.803679]
+[spawner-3] [INFO] [1790325389.041945386] [turtle_spawner]: New alive turtle: turtle112
+[controller-2] [INFO] [1790325389.413552394] [turtle_controller]: Turtle turtle110 successfully removed!
+[spawner-3] [INFO] [1790325389.427135768] [turtle_spawner]: Killed turtle: turtle110
+[controller-2] [INFO] [1790325389.427179309] [turtle_controller]: Target updated → turtle111
+[turtlesim_node-1] [WARN] [1790325389.551672882] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.420211, y=11.114155])
+[turtlesim_node-1] [INFO] [1790325390.049714962] [turtlesim]: Spawning turtle [turtle113] at x=[0.044971], y=[1.768600], theta=[3.880063]
+[spawner-3] [INFO] [1790325390.050136296] [turtle_spawner]: New alive turtle: turtle113
+[controller-2] [INFO] [1790325390.872880439] [turtle_controller]: Turtle turtle111 successfully removed!
+[spawner-3] [INFO] [1790325390.884075105] [turtle_spawner]: Killed turtle: turtle111
+[controller-2] [INFO] [1790325390.884538272] [turtle_controller]: Target updated → turtle112
+[turtlesim_node-1] [INFO] [1790325391.058286926] [turtlesim]: Spawning turtle [turtle114] at x=[9.270099], y=[4.822055], theta=[2.873474]
+[spawner-3] [INFO] [1790325391.058966176] [turtle_spawner]: New alive turtle: turtle114
+[controller-2] [INFO] [1790325391.762947045] [turtle_controller]: Turtle turtle112 successfully removed!
+[spawner-3] [INFO] [1790325391.779324086] [turtle_spawner]: Killed turtle: turtle112
+[controller-2] [INFO] [1790325391.779887461] [turtle_controller]: Target updated → turtle114
+[turtlesim_node-1] [INFO] [1790325392.051007652] [turtlesim]: Spawning turtle [turtle115] at x=[7.747054], y=[3.865355], theta=[5.053008]
+[spawner-3] [INFO] [1790325392.051979652] [turtle_spawner]: New alive turtle: turtle115
+[controller-2] [INFO] [1790325392.873960940] [turtle_controller]: Turtle turtle114 successfully removed!
+[spawner-3] [INFO] [1790325392.883012065] [turtle_spawner]: Killed turtle: turtle114
+[controller-2] [INFO] [1790325392.883355981] [turtle_controller]: Target updated → turtle115
+[turtlesim_node-1] [INFO] [1790325393.041494598] [turtlesim]: Spawning turtle [turtle116] at x=[7.643370], y=[10.560452], theta=[5.768558]
+[spawner-3] [INFO] [1790325393.042019390] [turtle_spawner]: New alive turtle: turtle116
+[controller-2] [INFO] [1790325393.592817825] [turtle_controller]: Turtle turtle115 successfully removed!
+[spawner-3] [INFO] [1790325393.603375616] [turtle_spawner]: Killed turtle: turtle115
+[controller-2] [INFO] [1790325393.603460491] [turtle_controller]: Target updated → turtle116
+[turtlesim_node-1] [INFO] [1790325394.049060139] [turtlesim]: Spawning turtle [turtle117] at x=[9.482146], y=[3.164338], theta=[6.086972]
+[spawner-3] [INFO] [1790325394.049497722] [turtle_spawner]: New alive turtle: turtle117
+[controller-2] [INFO] [1790325394.882906405] [turtle_controller]: Turtle turtle116 successfully removed!
+[spawner-3] [INFO] [1790325394.898187321] [turtle_spawner]: Killed turtle: turtle116
+[controller-2] [INFO] [1790325394.898321738] [turtle_controller]: Target updated → turtle117
+[turtlesim_node-1] [INFO] [1790325395.041446109] [turtlesim]: Spawning turtle [turtle118] at x=[7.985502], y=[4.470044], theta=[5.034969]
+[spawner-3] [INFO] [1790325395.042025275] [turtle_spawner]: New alive turtle: turtle118
+[turtlesim_node-1] [INFO] [1790325396.051552757] [turtlesim]: Spawning turtle [turtle119] at x=[10.154425], y=[6.821888], theta=[1.910910]
+[spawner-3] [INFO] [1790325396.052674007] [turtle_spawner]: New alive turtle: turtle119
+[controller-2] [INFO] [1790325396.263068088] [turtle_controller]: Turtle turtle117 successfully removed!
+[spawner-3] [INFO] [1790325396.275915338] [turtle_spawner]: Killed turtle: turtle117
+[controller-2] [INFO] [1790325396.276238547] [turtle_controller]: Target updated → turtle118
+[controller-2] [INFO] [1790325397.012914708] [turtle_controller]: Turtle turtle118 successfully removed!
+[controller-2] [INFO] [1790325397.026519791] [turtle_controller]: Target updated → turtle119
+[spawner-3] [INFO] [1790325397.026786750] [turtle_spawner]: Killed turtle: turtle118
+[turtlesim_node-1] [INFO] [1790325397.041828250] [turtlesim]: Spawning turtle [turtle120] at x=[4.987490], y=[9.919929], theta=[2.065427]
+[spawner-3] [INFO] [1790325397.042207625] [turtle_spawner]: New alive turtle: turtle120
+[controller-2] [INFO] [1790325397.972939254] [turtle_controller]: Turtle turtle119 successfully removed!
+[spawner-3] [INFO] [1790325397.986231462] [turtle_spawner]: Killed turtle: turtle119
+[controller-2] [INFO] [1790325397.986279129] [turtle_controller]: Target updated → turtle120
+[turtlesim_node-1] [INFO] [1790325398.049512129] [turtlesim]: Spawning turtle [turtle121] at x=[5.316146], y=[4.912735], theta=[3.720618]
+[spawner-3] [INFO] [1790325398.050042254] [turtle_spawner]: New alive turtle: turtle121
+[turtlesim_node-1] [INFO] [1790325399.040971312] [turtlesim]: Spawning turtle [turtle122] at x=[1.748096], y=[1.941203], theta=[3.241267]
+[spawner-3] [INFO] [1790325399.041344979] [turtle_spawner]: New alive turtle: turtle122
+[controller-2] [INFO] [1790325399.223744526] [turtle_controller]: Turtle turtle120 successfully removed!
+[spawner-3] [INFO] [1790325399.234757526] [turtle_spawner]: Killed turtle: turtle120
+[controller-2] [INFO] [1790325399.234814443] [turtle_controller]: Target updated → turtle121
+[turtlesim_node-1] [INFO] [1790325400.051135966] [turtlesim]: Spawning turtle [turtle123] at x=[6.413730], y=[1.253726], theta=[3.482789]
+[spawner-3] [INFO] [1790325400.051705799] [turtle_spawner]: New alive turtle: turtle123
+[controller-2] [INFO] [1790325400.393030813] [turtle_controller]: Turtle turtle121 successfully removed!
+[spawner-3] [INFO] [1790325400.405042480] [turtle_spawner]: Killed turtle: turtle121
+[controller-2] [INFO] [1790325400.405836938] [turtle_controller]: Target updated → turtle123
+[turtlesim_node-1] [INFO] [1790325401.041796172] [turtlesim]: Spawning turtle [turtle124] at x=[9.868516], y=[8.022197], theta=[4.683006]
+[spawner-3] [INFO] [1790325401.042174422] [turtle_spawner]: New alive turtle: turtle124
+[controller-2] [INFO] [1790325401.393067981] [turtle_controller]: Turtle turtle123 successfully removed!
+[spawner-3] [INFO] [1790325401.410265732] [turtle_spawner]: Killed turtle: turtle123
+[controller-2] [INFO] [1790325401.410736482] [turtle_controller]: Target updated → turtle122
+[turtlesim_node-1] [INFO] [1790325402.050350599] [turtlesim]: Spawning turtle [turtle125] at x=[3.890948], y=[0.007791], theta=[1.557293]
+[spawner-3] [INFO] [1790325402.050864932] [turtle_spawner]: New alive turtle: turtle125
+[controller-2] [INFO] [1790325402.533503671] [turtle_controller]: Turtle turtle122 successfully removed!
+[spawner-3] [INFO] [1790325402.548217921] [turtle_spawner]: Killed turtle: turtle122
+[controller-2] [INFO] [1790325402.548327588] [turtle_controller]: Target updated → turtle113
+[turtlesim_node-1] [INFO] [1790325403.042937203] [turtlesim]: Spawning turtle [turtle126] at x=[1.352739], y=[8.849669], theta=[2.362984]
+[spawner-3] [INFO] [1790325403.043761620] [turtle_spawner]: New alive turtle: turtle126
+[controller-2] [INFO] [1790325403.243053759] [turtle_controller]: Turtle turtle113 successfully removed!
+[spawner-3] [INFO] [1790325403.249805552] [turtle_spawner]: Killed turtle: turtle113
+[controller-2] [INFO] [1790325403.249890427] [turtle_controller]: Target updated → turtle125
+[turtlesim_node-1] [INFO] [1790325404.049418986] [turtlesim]: Spawning turtle [turtle127] at x=[2.068521], y=[1.683489], theta=[1.662832]
+[spawner-3] [INFO] [1790325404.050235153] [turtle_spawner]: New alive turtle: turtle127
+[controller-2] [INFO] [1790325404.352830512] [turtle_controller]: Turtle turtle125 successfully removed!
+[spawner-3] [INFO] [1790325404.371701931] [turtle_spawner]: Killed turtle: turtle125
+[controller-2] [INFO] [1790325404.371786306] [turtle_controller]: Target updated → turtle127
+[turtlesim_node-1] [INFO] [1790325405.041485363] [turtlesim]: Spawning turtle [turtle128] at x=[9.299563], y=[4.527663], theta=[1.323728]
+[spawner-3] [INFO] [1790325405.041948238] [turtle_spawner]: New alive turtle: turtle128
+[controller-2] [INFO] [1790325405.223889839] [turtle_controller]: Turtle turtle127 successfully removed!
+[spawner-3] [INFO] [1790325405.235697299] [turtle_spawner]: Killed turtle: turtle127
+[controller-2] [INFO] [1790325405.235947007] [turtle_controller]: Target updated → turtle126
+[turtlesim_node-1] [INFO] [1790325406.049359170] [turtlesim]: Spawning turtle [turtle129] at x=[5.760170], y=[5.712934], theta=[2.419315]
+[spawner-3] [INFO] [1790325406.050172004] [turtle_spawner]: New alive turtle: turtle129
+[controller-2] [INFO] [1790325406.503583345] [turtle_controller]: Turtle turtle126 successfully removed!
+[spawner-3] [INFO] [1790325406.514557387] [turtle_spawner]: Killed turtle: turtle126
+[controller-2] [INFO] [1790325406.514956346] [turtle_controller]: Target updated → turtle129
+[turtlesim_node-1] [INFO] [1790325407.041222070] [turtlesim]: Spawning turtle [turtle130] at x=[5.667501], y=[0.676136], theta=[5.683304]
+[spawner-3] [INFO] [1790325407.041712903] [turtle_spawner]: New alive turtle: turtle130
+[controller-2] [INFO] [1790325407.712847234] [turtle_controller]: Turtle turtle129 successfully removed!
+[spawner-3] [INFO] [1790325407.730414236] [turtle_spawner]: Killed turtle: turtle129
+[controller-2] [INFO] [1790325407.731164695] [turtle_controller]: Target updated → turtle128
+[turtlesim_node-1] [INFO] [1790325408.050040483] [turtlesim]: Spawning turtle [turtle131] at x=[10.221132], y=[3.997935], theta=[5.872957]
+[spawner-3] [INFO] [1790325408.051105150] [turtle_spawner]: New alive turtle: turtle131
+[controller-2] [INFO] [1790325408.722832822] [turtle_controller]: Turtle turtle128 successfully removed!
+[spawner-3] [INFO] [1790325408.740478991] [turtle_spawner]: Killed turtle: turtle128
+[controller-2] [INFO] [1790325408.740931699] [turtle_controller]: Target updated → turtle131
+[turtlesim_node-1] [INFO] [1790325409.058693950] [turtlesim]: Spawning turtle [turtle132] at x=[10.407489], y=[10.614176], theta=[1.087482]
+[spawner-3] [INFO] [1790325409.059122367] [turtle_spawner]: New alive turtle: turtle132
+[controller-2] [INFO] [1790325409.272876689] [turtle_controller]: Turtle turtle131 successfully removed!
+[spawner-3] [INFO] [1790325409.283317024] [turtle_spawner]: Killed turtle: turtle131
+[controller-2] [INFO] [1790325409.283783607] [turtle_controller]: Target updated → turtle124
+[turtlesim_node-1] [INFO] [1790325410.049735926] [turtlesim]: Spawning turtle [turtle133] at x=[10.879973], y=[10.636178], theta=[4.019039]
+[spawner-3] [INFO] [1790325410.050121218] [turtle_spawner]: New alive turtle: turtle133
+[controller-2] [INFO] [1790325410.342852096] [turtle_controller]: Turtle turtle124 successfully removed!
+[spawner-3] [INFO] [1790325410.354702723] [turtle_spawner]: Killed turtle: turtle124
+[controller-2] [INFO] [1790325410.354788140] [turtle_controller]: Target updated → turtle132
+[turtlesim_node-1] [INFO] [1790325411.042359288] [turtlesim]: Spawning turtle [turtle134] at x=[5.553365], y=[2.853967], theta=[2.653754]
+[spawner-3] [INFO] [1790325411.042811913] [turtle_spawner]: New alive turtle: turtle134
+[controller-2] [INFO] [1790325411.202841398] [turtle_controller]: Turtle turtle132 successfully removed!
+[spawner-3] [INFO] [1790325411.218133734] [turtle_spawner]: Killed turtle: turtle132
+[controller-2] [INFO] [1790325411.218588484] [turtle_controller]: Target updated → turtle133
+[controller-2] [INFO] [1790325411.482919986] [turtle_controller]: Turtle turtle133 successfully removed!
+[spawner-3] [INFO] [1790325411.489561946] [turtle_spawner]: Killed turtle: turtle133
+[controller-2] [INFO] [1790325411.489792737] [turtle_controller]: Target updated → turtle134
+[turtlesim_node-1] [WARN] [1790325411.600828131] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.346612, y=0.610296])
+[turtlesim_node-1] [WARN] [1790325411.615932925] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.344848, y=0.746846])
+[turtlesim_node-1] [WARN] [1790325411.632236469] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.301161, y=0.944587])
+[turtlesim_node-1] [WARN] [1790325411.648447055] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.252905, y=1.192463])
+[turtlesim_node-1] [WARN] [1790325411.663760266] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.205068, y=1.470690])
+[turtlesim_node-1] [WARN] [1790325411.680347144] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.150732, y=1.765788])
+[turtlesim_node-1] [WARN] [1790325411.695492896] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.101316, y=2.063513])
+[turtlesim_node-1] [INFO] [1790325412.049193831] [turtlesim]: Spawning turtle [turtle135] at x=[7.464847], y=[1.768116], theta=[3.413386]
+[spawner-3] [INFO] [1790325412.049985706] [turtle_spawner]: New alive turtle: turtle135
+[controller-2] [INFO] [1790325412.923363527] [turtle_controller]: Turtle turtle134 successfully removed!
+[spawner-3] [INFO] [1790325412.929777237] [turtle_spawner]: Killed turtle: turtle134
+[controller-2] [INFO] [1790325412.929830612] [turtle_controller]: Target updated → turtle135
+[turtlesim_node-1] [INFO] [1790325413.042084257] [turtlesim]: Spawning turtle [turtle136] at x=[5.557870], y=[7.706037], theta=[3.936962]
+[spawner-3] [INFO] [1790325413.042934507] [turtle_spawner]: New alive turtle: turtle136
+[controller-2] [INFO] [1790325413.722858511] [turtle_controller]: Turtle turtle135 successfully removed!
+[spawner-3] [INFO] [1790325413.730013970] [turtle_spawner]: Killed turtle: turtle135
+[controller-2] [INFO] [1790325413.730421512] [turtle_controller]: Target updated → turtle130
+[turtlesim_node-1] [INFO] [1790325414.050372031] [turtlesim]: Spawning turtle [turtle137] at x=[0.949724], y=[4.868946], theta=[0.760240]
+[spawner-3] [INFO] [1790325414.050995740] [turtle_spawner]: New alive turtle: turtle137
+[controller-2] [INFO] [1790325414.482811784] [turtle_controller]: Turtle turtle130 successfully removed!
+[spawner-3] [INFO] [1790325414.499855371] [turtle_spawner]: Killed turtle: turtle130
+[controller-2] [INFO] [1790325414.499889579] [turtle_controller]: Target updated → turtle137
+[turtlesim_node-1] [INFO] [1790325415.042282480] [turtlesim]: Spawning turtle [turtle138] at x=[9.959166], y=[10.376831], theta=[0.884723]
+[spawner-3] [INFO] [1790325415.043000272] [turtle_spawner]: New alive turtle: turtle138
+[controller-2] [INFO] [1790325415.722924499] [turtle_controller]: Turtle turtle137 successfully removed!
+[spawner-3] [INFO] [1790325415.730411542] [turtle_spawner]: Killed turtle: turtle137
+[controller-2] [INFO] [1790325415.730469709] [turtle_controller]: Target updated → turtle136
+[turtlesim_node-1] [INFO] [1790325416.049557693] [turtlesim]: Spawning turtle [turtle139] at x=[4.385806], y=[6.236612], theta=[0.913700]
+[spawner-3] [INFO] [1790325416.050221110] [turtle_spawner]: New alive turtle: turtle139
+[controller-2] [INFO] [1790325416.903408133] [turtle_controller]: Turtle turtle136 successfully removed!
+[spawner-3] [INFO] [1790325416.914908094] [turtle_spawner]: Killed turtle: turtle136
+[controller-2] [INFO] [1790325416.914960053] [turtle_controller]: Target updated → turtle139
+[turtlesim_node-1] [INFO] [1790325417.041250873] [turtlesim]: Spawning turtle [turtle140] at x=[2.898015], y=[2.345634], theta=[4.445297]
+[spawner-3] [INFO] [1790325417.042032123] [turtle_spawner]: New alive turtle: turtle140
+[controller-2] [INFO] [1790325417.622926301] [turtle_controller]: Turtle turtle139 successfully removed!
+[spawner-3] [INFO] [1790325417.634370720] [turtle_spawner]: Killed turtle: turtle139
+[controller-2] [INFO] [1790325417.634423637] [turtle_controller]: Target updated → turtle140
+[turtlesim_node-1] [INFO] [1790325418.049499693] [turtlesim]: Spawning turtle [turtle141] at x=[8.524547], y=[6.479522], theta=[3.785169]
+[spawner-3] [INFO] [1790325418.050073318] [turtle_spawner]: New alive turtle: turtle141
+[controller-2] [INFO] [1790325418.662925135] [turtle_controller]: Turtle turtle140 successfully removed!
+[spawner-3] [INFO] [1790325418.674024012] [turtle_spawner]: Killed turtle: turtle140
+[controller-2] [INFO] [1790325418.674095221] [turtle_controller]: Target updated → turtle141
+[turtlesim_node-1] [INFO] [1790325419.040984894] [turtlesim]: Spawning turtle [turtle142] at x=[8.322380], y=[3.700127], theta=[2.707452]
+[spawner-3] [INFO] [1790325419.042302311] [turtle_spawner]: New alive turtle: turtle142
+[controller-2] [INFO] [1790325420.002927558] [turtle_controller]: Turtle turtle141 successfully removed!
+[spawner-3] [INFO] [1790325420.019291270] [turtle_spawner]: Killed turtle: turtle141
+[controller-2] [INFO] [1790325420.019751812] [turtle_controller]: Target updated → turtle142
+[turtlesim_node-1] [INFO] [1790325420.049514362] [turtlesim]: Spawning turtle [turtle143] at x=[4.305288], y=[10.374485], theta=[0.123136]
+[spawner-3] [INFO] [1790325420.050052195] [turtle_spawner]: New alive turtle: turtle143
+[controller-2] [INFO] [1790325420.923463596] [turtle_controller]: Turtle turtle142 successfully removed!
+[spawner-3] [INFO] [1790325420.930581097] [turtle_spawner]: Killed turtle: turtle142
+[controller-2] [INFO] [1790325420.931477098] [turtle_controller]: Target updated → turtle138
+[turtlesim_node-1] [INFO] [1790325421.058436132] [turtlesim]: Spawning turtle [turtle144] at x=[3.024548], y=[2.077559], theta=[3.564926]
+[spawner-3] [INFO] [1790325421.059380216] [turtle_spawner]: New alive turtle: turtle144
+[turtlesim_node-1] [INFO] [1790325422.049300242] [turtlesim]: Spawning turtle [turtle145] at x=[6.999460], y=[9.021948], theta=[5.147473]
+[spawner-3] [INFO] [1790325422.050103701] [turtle_spawner]: New alive turtle: turtle145
+[controller-2] [INFO] [1790325422.282894560] [turtle_controller]: Turtle turtle138 successfully removed!
+[spawner-3] [INFO] [1790325422.290924979] [turtle_spawner]: Killed turtle: turtle138
+[controller-2] [INFO] [1790325422.291842646] [turtle_controller]: Target updated → turtle145
+[turtlesim_node-1] [INFO] [1790325423.041917197] [turtlesim]: Spawning turtle [turtle146] at x=[3.125523], y=[7.689369], theta=[4.014435]
+[spawner-3] [INFO] [1790325423.042318614] [turtle_spawner]: New alive turtle: turtle146
+[controller-2] [INFO] [1790325423.272831475] [turtle_controller]: Turtle turtle145 successfully removed!
+[spawner-3] [INFO] [1790325423.286011187] [turtle_spawner]: Killed turtle: turtle145
+[controller-2] [INFO] [1790325423.286102396] [turtle_controller]: Target updated → turtle143
+[turtlesim_node-1] [INFO] [1790325424.049376959] [turtlesim]: Spawning turtle [turtle147] at x=[2.985679], y=[8.801405], theta=[1.472333]
+[spawner-3] [INFO] [1790325424.049838876] [turtle_spawner]: New alive turtle: turtle147
+[controller-2] [INFO] [1790325424.192824296] [turtle_controller]: Turtle turtle143 successfully removed!
+[spawner-3] [INFO] [1790325424.210746885] [turtle_spawner]: Killed turtle: turtle143
+[controller-2] [INFO] [1790325424.210785885] [turtle_controller]: Target updated → turtle147
+[controller-2] [INFO] [1790325424.964145328] [turtle_controller]: Turtle turtle147 successfully removed!
+[spawner-3] [INFO] [1790325424.981581792] [turtle_spawner]: Killed turtle: turtle147
+[controller-2] [INFO] [1790325424.981927959] [turtle_controller]: Target updated → turtle146
+[turtlesim_node-1] [INFO] [1790325425.057491566] [turtlesim]: Spawning turtle [turtle148] at x=[2.968927], y=[1.763615], theta=[3.338454]
+[spawner-3] [INFO] [1790325425.057975816] [turtle_spawner]: New alive turtle: turtle148
+[controller-2] [INFO] [1790325425.522934925] [turtle_controller]: Turtle turtle146 successfully removed!
+[controller-2] [INFO] [1790325425.540484097] [turtle_controller]: Target updated → turtle144
+[spawner-3] [INFO] [1790325425.540787389] [turtle_spawner]: Killed turtle: turtle146
+[turtlesim_node-1] [INFO] [1790325426.049928304] [turtlesim]: Spawning turtle [turtle149] at x=[5.590270], y=[10.865777], theta=[3.476483]
+[spawner-3] [INFO] [1790325426.050370888] [turtle_spawner]: New alive turtle: turtle149
+[controller-2] [INFO] [1790325426.683994266] [turtle_controller]: Turtle turtle144 successfully removed!
+[spawner-3] [INFO] [1790325426.690899477] [turtle_spawner]: Killed turtle: turtle144
+[controller-2] [INFO] [1790325426.691063435] [turtle_controller]: Target updated → turtle148
+[controller-2] [INFO] [1790325426.943707728] [turtle_controller]: Turtle turtle148 successfully removed!
+[spawner-3] [INFO] [1790325426.949464230] [turtle_spawner]: Killed turtle: turtle148
+[controller-2] [INFO] [1790325426.949475355] [turtle_controller]: Target updated → turtle149
+[turtlesim_node-1] [INFO] [1790325427.041659053] [turtlesim]: Spawning turtle [turtle150] at x=[10.547227], y=[3.965447], theta=[0.515883]
+[spawner-3] [INFO] [1790325427.042754595] [turtle_spawner]: New alive turtle: turtle150
+[turtlesim_node-1] [INFO] [1790325428.049780526] [turtlesim]: Spawning turtle [turtle151] at x=[3.297023], y=[10.730215], theta=[1.867829]
+[spawner-3] [INFO] [1790325428.050294943] [turtle_spawner]: New alive turtle: turtle151
+[controller-2] [INFO] [1790325428.443762000] [turtle_controller]: Turtle turtle149 successfully removed!
+[spawner-3] [INFO] [1790325428.450313502] [turtle_spawner]: Killed turtle: turtle149
+[controller-2] [INFO] [1790325428.450880503] [turtle_controller]: Target updated → turtle151
+[turtlesim_node-1] [INFO] [1790325429.042887464] [turtlesim]: Spawning turtle [turtle152] at x=[7.234596], y=[9.485158], theta=[5.506059]
+[spawner-3] [INFO] [1790325429.043388964] [turtle_spawner]: New alive turtle: turtle152
+[controller-2] [INFO] [1790325429.252873291] [turtle_controller]: Turtle turtle151 successfully removed!
+[spawner-3] [INFO] [1790325429.268656922] [turtle_spawner]: Killed turtle: turtle151
+[controller-2] [INFO] [1790325429.268782589] [turtle_controller]: Target updated → turtle152
+[turtlesim_node-1] [INFO] [1790325430.049324001] [turtlesim]: Spawning turtle [turtle153] at x=[3.398949], y=[1.027200], theta=[2.524734]
+[spawner-3] [INFO] [1790325430.049815126] [turtle_spawner]: New alive turtle: turtle153
+[controller-2] [INFO] [1790325430.362848620] [turtle_controller]: Turtle turtle152 successfully removed!
+[spawner-3] [INFO] [1790325430.370357039] [turtle_spawner]: Killed turtle: turtle152
+[controller-2] [INFO] [1790325430.370726081] [turtle_controller]: Target updated → turtle150
+[turtlesim_node-1] [INFO] [1790325431.041816627] [turtlesim]: Spawning turtle [turtle154] at x=[9.987088], y=[7.934468], theta=[5.079363]
+[spawner-3] [INFO] [1790325431.042207002] [turtle_spawner]: New alive turtle: turtle154
+[controller-2] [INFO] [1790325431.593335967] [turtle_controller]: Turtle turtle150 successfully removed!
+[spawner-3] [INFO] [1790325431.603885054] [turtle_spawner]: Killed turtle: turtle150
+[controller-2] [INFO] [1790325431.603957721] [turtle_controller]: Target updated → turtle154
+[turtlesim_node-1] [WARN] [1790325431.776076538] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.112025, y=6.815348])
+[turtlesim_node-1] [WARN] [1790325431.791231710] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.172071, y=6.724998])
+[turtlesim_node-1] [WARN] [1790325431.807564092] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.154848, y=6.620024])
+[turtlesim_node-1] [WARN] [1790325431.824017556] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.139555, y=6.507035])
+[turtlesim_node-1] [WARN] [1790325431.839819188] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.123357, y=6.388099])
+[turtlesim_node-1] [WARN] [1790325431.855980527] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.110521, y=6.270497])
+[turtlesim_node-1] [WARN] [1790325431.871672242] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.098652, y=6.151322])
+[turtlesim_node-1] [INFO] [1790325432.049783853] [turtlesim]: Spawning turtle [turtle155] at x=[5.709093], y=[9.013545], theta=[0.405117]
+[spawner-3] [INFO] [1790325432.051192479] [turtle_spawner]: New alive turtle: turtle155
+[controller-2] [INFO] [1790325432.672891811] [turtle_controller]: Turtle turtle154 successfully removed!
+[spawner-3] [INFO] [1790325432.691001110] [turtle_spawner]: Killed turtle: turtle154
+[controller-2] [INFO] [1790325432.691809944] [turtle_controller]: Target updated → turtle155
+[turtlesim_node-1] [INFO] [1790325433.041581709] [turtlesim]: Spawning turtle [turtle156] at x=[7.970519], y=[9.440732], theta=[1.362748]
+[spawner-3] [INFO] [1790325433.042790959] [turtle_spawner]: New alive turtle: turtle156
+[controller-2] [INFO] [1790325433.752878668] [turtle_controller]: Turtle turtle155 successfully removed!
+[spawner-3] [INFO] [1790325433.764472590] [turtle_spawner]: Killed turtle: turtle155
+[controller-2] [INFO] [1790325433.764931423] [turtle_controller]: Target updated → turtle156
+[turtlesim_node-1] [INFO] [1790325434.049615624] [turtlesim]: Spawning turtle [turtle157] at x=[6.673810], y=[9.967390], theta=[3.560574]
+[spawner-3] [INFO] [1790325434.050045999] [turtle_spawner]: New alive turtle: turtle157
+[controller-2] [INFO] [1790325434.584044391] [turtle_controller]: Turtle turtle156 successfully removed!
+[spawner-3] [INFO] [1790325434.593689187] [turtle_spawner]: Killed turtle: turtle156
+[controller-2] [INFO] [1790325434.593750979] [turtle_controller]: Target updated → turtle157
+[turtlesim_node-1] [INFO] [1790325435.044475753] [turtlesim]: Spawning turtle [turtle158] at x=[6.888276], y=[4.848336], theta=[4.617456]
+[spawner-3] [INFO] [1790325435.045066378] [turtle_spawner]: New alive turtle: turtle158
+[controller-2] [INFO] [1790325435.123400829] [turtle_controller]: Turtle turtle157 successfully removed!
+[spawner-3] [INFO] [1790325435.139665752] [turtle_spawner]: Killed turtle: turtle157
+[controller-2] [INFO] [1790325435.139868586] [turtle_controller]: Target updated → turtle158
+[turtlesim_node-1] [INFO] [1790325436.054930107] [turtlesim]: Spawning turtle [turtle159] at x=[4.804803], y=[4.191113], theta=[1.038496]
+[spawner-3] [INFO] [1790325436.057712025] [turtle_spawner]: New alive turtle: turtle159
+[controller-2] [INFO] [1790325436.293362213] [turtle_controller]: Turtle turtle158 successfully removed!
+[controller-2] [INFO] [1790325436.306387261] [turtle_controller]: Target updated → turtle159
+[spawner-3] [INFO] [1790325436.306412094] [turtle_spawner]: Killed turtle: turtle158
+[turtlesim_node-1] [INFO] [1790325437.042524588] [turtlesim]: Spawning turtle [turtle160] at x=[6.463295], y=[2.313728], theta=[4.984165]
+[spawner-3] [INFO] [1790325437.042994380] [turtle_spawner]: New alive turtle: turtle160
+[controller-2] [INFO] [1790325437.093388694] [turtle_controller]: Turtle turtle159 successfully removed!
+[spawner-3] [INFO] [1790325437.106392075] [turtle_spawner]: Killed turtle: turtle159
+[controller-2] [INFO] [1790325437.106931992] [turtle_controller]: Target updated → turtle160
+[controller-2] [INFO] [1790325437.953223585] [turtle_controller]: Turtle turtle160 successfully removed!
+[controller-2] [INFO] [1790325437.973049969] [turtle_controller]: Target updated → turtle153
+[spawner-3] [INFO] [1790325437.973377761] [turtle_spawner]: Killed turtle: turtle160
+[turtlesim_node-1] [INFO] [1790325438.050368797] [turtlesim]: Spawning turtle [turtle161] at x=[6.184180], y=[10.235112], theta=[4.961628]
+[spawner-3] [INFO] [1790325438.051312505] [turtle_spawner]: New alive turtle: turtle161
+[controller-2] [INFO] [1790325438.953511384] [turtle_controller]: Turtle turtle153 successfully removed!
+[spawner-3] [INFO] [1790325438.963368055] [turtle_spawner]: Killed turtle: turtle153
+[controller-2] [INFO] [1790325438.963373180] [turtle_controller]: Target updated → turtle161
+[turtlesim_node-1] [INFO] [1790325439.057720808] [turtlesim]: Spawning turtle [turtle162] at x=[6.406759], y=[1.426349], theta=[2.023573]
+[spawner-3] [INFO] [1790325439.058183933] [turtle_spawner]: New alive turtle: turtle162
+[turtlesim_node-1] [INFO] [1790325440.051378073] [turtlesim]: Spawning turtle [turtle163] at x=[8.984923], y=[7.231655], theta=[5.510382]
+[spawner-3] [INFO] [1790325440.052043657] [turtle_spawner]: New alive turtle: turtle163
+[controller-2] [INFO] [1790325440.403055286] [turtle_controller]: Turtle turtle161 successfully removed!
+[spawner-3] [INFO] [1790325440.419723169] [turtle_spawner]: Killed turtle: turtle161
+[controller-2] [INFO] [1790325440.420205836] [turtle_controller]: Target updated → turtle163
+[turtlesim_node-1] [INFO] [1790325441.041323597] [turtlesim]: Spawning turtle [turtle164] at x=[7.424808], y=[0.493999], theta=[5.477349]
+[spawner-3] [INFO] [1790325441.042117681] [turtle_spawner]: New alive turtle: turtle164
+[controller-2] [INFO] [1790325441.473419563] [turtle_controller]: Turtle turtle163 successfully removed!
+[spawner-3] [INFO] [1790325441.490808780] [turtle_spawner]: Killed turtle: turtle163
+[controller-2] [INFO] [1790325441.490932071] [turtle_controller]: Target updated → turtle162
+[turtlesim_node-1] [INFO] [1790325442.051826309] [turtlesim]: Spawning turtle [turtle165] at x=[2.314000], y=[3.997406], theta=[3.060634]
+[spawner-3] [INFO] [1790325442.052421226] [turtle_spawner]: New alive turtle: turtle165
+[controller-2] [INFO] [1790325442.692863760] [turtle_controller]: Turtle turtle162 successfully removed!
+[spawner-3] [INFO] [1790325442.707259684] [turtle_spawner]: Killed turtle: turtle162
+[controller-2] [INFO] [1790325442.707333184] [turtle_controller]: Target updated → turtle164
+[turtlesim_node-1] [INFO] [1790325443.057096446] [turtlesim]: Spawning turtle [turtle166] at x=[6.202467], y=[4.304157], theta=[3.275357]
+[spawner-3] [INFO] [1790325443.057985488] [turtle_spawner]: New alive turtle: turtle166
+[controller-2] [INFO] [1790325443.303359824] [turtle_controller]: Turtle turtle164 successfully removed!
+[spawner-3] [INFO] [1790325443.316593873] [turtle_spawner]: Killed turtle: turtle164
+[controller-2] [INFO] [1790325443.317261706] [turtle_controller]: Target updated → turtle166
+[turtlesim_node-1] [INFO] [1790325444.050487671] [turtlesim]: Spawning turtle [turtle167] at x=[0.967020], y=[8.874595], theta=[1.664954]
+[spawner-3] [INFO] [1790325444.051522213] [turtle_spawner]: New alive turtle: turtle167
+[controller-2] [INFO] [1790325444.393333769] [turtle_controller]: Turtle turtle166 successfully removed!
+[spawner-3] [INFO] [1790325444.403776275] [turtle_spawner]: Killed turtle: turtle166
+[controller-2] [INFO] [1790325444.403812900] [turtle_controller]: Target updated → turtle165
+[turtlesim_node-1] [INFO] [1790325445.042029447] [turtlesim]: Spawning turtle [turtle168] at x=[3.573107], y=[10.716659], theta=[0.963508]
+[spawner-3] [INFO] [1790325445.042907739] [turtle_spawner]: New alive turtle: turtle168
+[controller-2] [INFO] [1790325445.432827533] [turtle_controller]: Turtle turtle165 successfully removed!
+[spawner-3] [INFO] [1790325445.445221581] [turtle_spawner]: Killed turtle: turtle165
+[controller-2] [INFO] [1790325445.445659165] [turtle_controller]: Target updated → turtle167
+[turtlesim_node-1] [INFO] [1790325446.050916534] [turtlesim]: Spawning turtle [turtle169] at x=[1.580829], y=[2.318867], theta=[4.911424]
+[spawner-3] [INFO] [1790325446.051362993] [turtle_spawner]: New alive turtle: turtle169
+[controller-2] [INFO] [1790325446.605383882] [turtle_controller]: Turtle turtle167 successfully removed!
+[spawner-3] [INFO] [1790325446.610878176] [turtle_spawner]: Killed turtle: turtle167
+[controller-2] [INFO] [1790325446.610955385] [turtle_controller]: Target updated → turtle168
+[turtlesim_node-1] [INFO] [1790325447.041987831] [turtlesim]: Spawning turtle [turtle170] at x=[0.967452], y=[4.692073], theta=[2.791207]
+[spawner-3] [INFO] [1790325447.043202123] [turtle_spawner]: New alive turtle: turtle170
+[controller-2] [INFO] [1790325447.543671738] [turtle_controller]: Turtle turtle168 successfully removed!
+[spawner-3] [INFO] [1790325447.556224120] [turtle_spawner]: Killed turtle: turtle168
+[controller-2] [INFO] [1790325447.556353828] [turtle_controller]: Target updated → turtle170
+[turtlesim_node-1] [INFO] [1790325448.049759273] [turtlesim]: Spawning turtle [turtle171] at x=[7.167333], y=[1.400360], theta=[1.268879]
+[spawner-3] [INFO] [1790325448.050835232] [turtle_spawner]: New alive turtle: turtle171
+[controller-2] [INFO] [1790325448.853442649] [turtle_controller]: Turtle turtle170 successfully removed!
+[spawner-3] [INFO] [1790325448.867327157] [turtle_spawner]: Killed turtle: turtle170
+[controller-2] [INFO] [1790325448.867664449] [turtle_controller]: Target updated → turtle169
+[turtlesim_node-1] [INFO] [1790325449.042422550] [turtlesim]: Spawning turtle [turtle172] at x=[2.209733], y=[4.534196], theta=[5.812327]
+[spawner-3] [INFO] [1790325449.043266592] [turtle_spawner]: New alive turtle: turtle172
+[controller-2] [INFO] [1790325449.703826185] [turtle_controller]: Turtle turtle169 successfully removed!
+[spawner-3] [INFO] [1790325449.714971359] [turtle_spawner]: Killed turtle: turtle169
+[controller-2] [INFO] [1790325449.715471150] [turtle_controller]: Target updated → turtle172
+[turtlesim_node-1] [INFO] [1790325450.050341430] [turtlesim]: Spawning turtle [turtle173] at x=[4.478414], y=[9.778867], theta=[0.108625]
+[spawner-3] [INFO] [1790325450.050942763] [turtle_spawner]: New alive turtle: turtle173
+[controller-2] [INFO] [1790325450.535461259] [turtle_controller]: Turtle turtle172 successfully removed!
+[spawner-3] [INFO] [1790325450.560515357] [turtle_spawner]: Killed turtle: turtle172
+[controller-2] [INFO] [1790325450.560855899] [turtle_controller]: Target updated → turtle171
+[turtlesim_node-1] [INFO] [1790325451.059347029] [turtlesim]: Spawning turtle [turtle174] at x=[1.142117], y=[3.054927], theta=[0.417593]
+[spawner-3] [INFO] [1790325451.059993488] [turtle_spawner]: New alive turtle: turtle174
+[controller-2] [INFO] [1790325451.786829552] [turtle_controller]: Turtle turtle171 successfully removed!
+[spawner-3] [INFO] [1790325451.794706932] [turtle_spawner]: Killed turtle: turtle171
+[controller-2] [INFO] [1790325451.794758140] [turtle_controller]: Target updated → turtle174
+[turtlesim_node-1] [INFO] [1790325452.051933004] [turtlesim]: Spawning turtle [turtle175] at x=[1.694330], y=[10.596763], theta=[3.332400]
+[spawner-3] [INFO] [1790325452.052355838] [turtle_spawner]: New alive turtle: turtle175
+[turtlesim_node-1] [INFO] [1790325453.042257905] [turtlesim]: Spawning turtle [turtle176] at x=[7.842776], y=[3.460906], theta=[5.745742]
+[spawner-3] [INFO] [1790325453.042707572] [turtle_spawner]: New alive turtle: turtle176
+[controller-2] [INFO] [1790325453.072893758] [turtle_controller]: Turtle turtle174 successfully removed!
+[spawner-3] [INFO] [1790325453.093867979] [turtle_spawner]: Killed turtle: turtle174
+[controller-2] [INFO] [1790325453.094745646] [turtle_controller]: Target updated → turtle176
+[turtlesim_node-1] [INFO] [1790325454.051096161] [turtlesim]: Spawning turtle [turtle177] at x=[1.854798], y=[5.218871], theta=[2.150438]
+[spawner-3] [INFO] [1790325454.051587203] [turtle_spawner]: New alive turtle: turtle177
+[controller-2] [INFO] [1790325454.402809927] [turtle_controller]: Turtle turtle176 successfully removed!
+[spawner-3] [INFO] [1790325454.421201355] [turtle_spawner]: Killed turtle: turtle176
+[controller-2] [INFO] [1790325454.421296022] [turtle_controller]: Target updated → turtle177
+[turtlesim_node-1] [INFO] [1790325455.042211750] [turtlesim]: Spawning turtle [turtle178] at x=[0.964868], y=[7.564821], theta=[0.507692]
+[spawner-3] [INFO] [1790325455.043077292] [turtle_spawner]: New alive turtle: turtle178
+[controller-2] [INFO] [1790325455.734011197] [turtle_controller]: Turtle turtle177 successfully removed!
+[spawner-3] [INFO] [1790325455.747568456] [turtle_spawner]: Killed turtle: turtle177
+[controller-2] [INFO] [1790325455.748021040] [turtle_controller]: Target updated → turtle178
+[turtlesim_node-1] [INFO] [1790325456.051267403] [turtlesim]: Spawning turtle [turtle179] at x=[10.093203], y=[6.267653], theta=[5.232597]
+[spawner-3] [INFO] [1790325456.051966987] [turtle_spawner]: New alive turtle: turtle179
+[controller-2] [INFO] [1790325456.583343210] [turtle_controller]: Turtle turtle178 successfully removed!
+[spawner-3] [INFO] [1790325456.597340386] [turtle_spawner]: Killed turtle: turtle178
+[controller-2] [INFO] [1790325456.597799012] [turtle_controller]: Target updated → turtle175
+[turtlesim_node-1] [INFO] [1790325457.041466012] [turtlesim]: Spawning turtle [turtle180] at x=[6.850061], y=[2.826450], theta=[1.825544]
+[spawner-3] [INFO] [1790325457.042395637] [turtle_spawner]: New alive turtle: turtle180
+[controller-2] [INFO] [1790325457.513097868] [turtle_controller]: Turtle turtle175 successfully removed!
+[spawner-3] [INFO] [1790325457.522411999] [turtle_spawner]: Killed turtle: turtle175
+[controller-2] [INFO] [1790325457.522570583] [turtle_controller]: Target updated → turtle173
+[turtlesim_node-1] [INFO] [1790325458.048982642] [turtlesim]: Spawning turtle [turtle181] at x=[2.169306], y=[3.755361], theta=[4.598505]
+[spawner-3] [INFO] [1790325458.049439059] [turtle_spawner]: New alive turtle: turtle181
+[controller-2] [INFO] [1790325458.422910021] [turtle_controller]: Turtle turtle173 successfully removed!
+[spawner-3] [INFO] [1790325458.437417697] [turtle_spawner]: Killed turtle: turtle173
+[controller-2] [INFO] [1790325458.437861198] [turtle_controller]: Target updated → turtle181
+[turtlesim_node-1] [INFO] [1790325459.058474327] [turtlesim]: Spawning turtle [turtle182] at x=[6.556417], y=[8.588590], theta=[3.265922]
+[spawner-3] [INFO] [1790325459.058956702] [turtle_spawner]: New alive turtle: turtle182
+[controller-2] [INFO] [1790325459.673508708] [turtle_controller]: Turtle turtle181 successfully removed!
+[spawner-3] [INFO] [1790325459.682943923] [turtle_spawner]: Killed turtle: turtle181
+[controller-2] [INFO] [1790325459.682993256] [turtle_controller]: Target updated → turtle180
+[turtlesim_node-1] [INFO] [1790325460.051241052] [turtlesim]: Spawning turtle [turtle183] at x=[5.664849], y=[3.187704], theta=[2.943966]
+[spawner-3] [INFO] [1790325460.052054636] [turtle_spawner]: New alive turtle: turtle183
+[controller-2] [INFO] [1790325460.803129743] [turtle_controller]: Turtle turtle180 successfully removed!
+[spawner-3] [INFO] [1790325460.819719463] [turtle_spawner]: Killed turtle: turtle180
+[controller-2] [INFO] [1790325460.819822380] [turtle_controller]: Target updated → turtle183
+[turtlesim_node-1] [INFO] [1790325461.041548327] [turtlesim]: Spawning turtle [turtle184] at x=[10.952342], y=[5.899404], theta=[5.185957]
+[spawner-3] [INFO] [1790325461.042024577] [turtle_spawner]: New alive turtle: turtle184
+[controller-2] [INFO] [1790325461.282929456] [turtle_controller]: Turtle turtle183 successfully removed!
+[spawner-3] [INFO] [1790325461.298791634] [turtle_spawner]: Killed turtle: turtle183
+[controller-2] [INFO] [1790325461.299253426] [turtle_controller]: Target updated → turtle179
+[turtlesim_node-1] [INFO] [1790325462.049858334] [turtlesim]: Spawning turtle [turtle185] at x=[1.908894], y=[7.992351], theta=[6.102376]
+[spawner-3] [INFO] [1790325462.050738001] [turtle_spawner]: New alive turtle: turtle185
+[controller-2] [INFO] [1790325462.503459118] [turtle_controller]: Turtle turtle179 successfully removed!
+[spawner-3] [INFO] [1790325462.515251793] [turtle_spawner]: Killed turtle: turtle179
+[controller-2] [INFO] [1790325462.515670710] [turtle_controller]: Target updated → turtle184
+[controller-2] [INFO] [1790325463.012955443] [turtle_controller]: Turtle turtle184 successfully removed!
+[spawner-3] [INFO] [1790325463.027167286] [turtle_spawner]: Killed turtle: turtle184
+[controller-2] [INFO] [1790325463.027476745] [turtle_controller]: Target updated → turtle182
+[turtlesim_node-1] [INFO] [1790325463.042577464] [turtlesim]: Spawning turtle [turtle186] at x=[6.026791], y=[6.654701], theta=[1.783542]
+[spawner-3] [INFO] [1790325463.043004173] [turtle_spawner]: New alive turtle: turtle186
+[turtlesim_node-1] [WARN] [1790325463.151729294] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.095986, y=4.843729])
+[turtlesim_node-1] [WARN] [1790325463.167780264] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.163343, y=4.711470])
+[turtlesim_node-1] [WARN] [1790325463.183417942] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.133443, y=4.558330])
+[turtlesim_node-1] [WARN] [1790325463.199682495] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.097420, y=4.399069])
+[turtlesim_node-1] [INFO] [1790325464.051032575] [turtlesim]: Spawning turtle [turtle187] at x=[2.454632], y=[4.102069], theta=[4.257041]
+[spawner-3] [INFO] [1790325464.051814201] [turtle_spawner]: New alive turtle: turtle187
+[controller-2] [INFO] [1790325464.233528460] [turtle_controller]: Turtle turtle182 successfully removed!
+[spawner-3] [INFO] [1790325464.242680300] [turtle_spawner]: Killed turtle: turtle182
+[controller-2] [INFO] [1790325464.243236634] [turtle_controller]: Target updated → turtle186
+[controller-2] [INFO] [1790325465.003440196] [turtle_controller]: Turtle turtle186 successfully removed!
+[spawner-3] [INFO] [1790325465.010951201] [turtle_spawner]: Killed turtle: turtle186
+[controller-2] [INFO] [1790325465.011882786] [turtle_controller]: Target updated → turtle185
+[turtlesim_node-1] [INFO] [1790325465.042406517] [turtlesim]: Spawning turtle [turtle188] at x=[1.189964], y=[7.375924], theta=[0.063628]
+[spawner-3] [INFO] [1790325465.043296559] [turtle_spawner]: New alive turtle: turtle188
+[turtlesim_node-1] [INFO] [1790325466.050570606] [turtlesim]: Spawning turtle [turtle189] at x=[6.639673], y=[0.993071], theta=[5.054569]
+[spawner-3] [INFO] [1790325466.051389982] [turtle_spawner]: New alive turtle: turtle189
+[controller-2] [INFO] [1790325466.083019589] [turtle_controller]: Turtle turtle185 successfully removed!
+[spawner-3] [INFO] [1790325466.098518893] [turtle_spawner]: Killed turtle: turtle185
+[controller-2] [INFO] [1790325466.098588309] [turtle_controller]: Target updated → turtle188
+[controller-2] [INFO] [1790325466.563352663] [turtle_controller]: Turtle turtle188 successfully removed!
+[spawner-3] [INFO] [1790325466.579684383] [turtle_spawner]: Killed turtle: turtle188
+[controller-2] [INFO] [1790325466.579756800] [turtle_controller]: Target updated → turtle187
+[turtlesim_node-1] [INFO] [1790325467.041511818] [turtlesim]: Spawning turtle [turtle190] at x=[3.813415], y=[1.393028], theta=[1.871001]
+[spawner-3] [INFO] [1790325467.041933110] [turtle_spawner]: New alive turtle: turtle190
+[controller-2] [INFO] [1790325467.563830595] [turtle_controller]: Turtle turtle187 successfully removed!
+[spawner-3] [INFO] [1790325467.570542600] [turtle_spawner]: Killed turtle: turtle187
+[controller-2] [INFO] [1790325467.570762934] [turtle_controller]: Target updated → turtle190
+[turtlesim_node-1] [INFO] [1790325468.051804597] [turtlesim]: Spawning turtle [turtle191] at x=[2.763517], y=[3.845418], theta=[3.934242]
+[spawner-3] [INFO] [1790325468.052945556] [turtle_spawner]: New alive turtle: turtle191
+[controller-2] [INFO] [1790325468.473686717] [turtle_controller]: Turtle turtle190 successfully removed!
+[spawner-3] [INFO] [1790325468.485757019] [turtle_spawner]: Killed turtle: turtle190
+[controller-2] [INFO] [1790325468.486048644] [turtle_controller]: Target updated → turtle191
+[turtlesim_node-1] [INFO] [1790325469.041876078] [turtlesim]: Spawning turtle [turtle192] at x=[7.908988], y=[0.133209], theta=[3.050328]
+[spawner-3] [INFO] [1790325469.043977496] [turtle_spawner]: New alive turtle: turtle192
+[controller-2] [INFO] [1790325469.383043181] [turtle_controller]: Turtle turtle191 successfully removed!
+[spawner-3] [INFO] [1790325469.394212690] [turtle_spawner]: Killed turtle: turtle191
+[controller-2] [INFO] [1790325469.394259648] [turtle_controller]: Target updated → turtle189
+[turtlesim_node-1] [INFO] [1790325470.050563292] [turtlesim]: Spawning turtle [turtle193] at x=[9.546517], y=[0.705386], theta=[1.589878]
+[spawner-3] [INFO] [1790325470.050992959] [turtle_spawner]: New alive turtle: turtle193
+[controller-2] [INFO] [1790325470.583555594] [turtle_controller]: Turtle turtle189 successfully removed!
+[spawner-3] [INFO] [1790325470.594181269] [turtle_spawner]: Killed turtle: turtle189
+[controller-2] [INFO] [1790325470.594565311] [turtle_controller]: Target updated → turtle192
+[turtlesim_node-1] [INFO] [1790325471.057666599] [turtlesim]: Spawning turtle [turtle194] at x=[7.366088], y=[5.943651], theta=[5.804321]
+[spawner-3] [INFO] [1790325471.058220475] [turtle_spawner]: New alive turtle: turtle194
+[controller-2] [INFO] [1790325471.253679383] [turtle_controller]: Turtle turtle192 successfully removed!
+[controller-2] [INFO] [1790325471.267279853] [turtle_controller]: Target updated → turtle193
+[spawner-3] [INFO] [1790325471.267306519] [turtle_spawner]: Killed turtle: turtle192
+[controller-2] [INFO] [1790325471.972861591] [turtle_controller]: Turtle turtle193 successfully removed!
+[spawner-3] [INFO] [1790325471.987183895] [turtle_spawner]: Killed turtle: turtle193
+[controller-2] [INFO] [1790325471.987775687] [turtle_controller]: Target updated → turtle194
+[turtlesim_node-1] [INFO] [1790325472.050775780] [turtlesim]: Spawning turtle [turtle195] at x=[5.855703], y=[3.724410], theta=[6.117629]
+[spawner-3] [INFO] [1790325472.051488531] [turtle_spawner]: New alive turtle: turtle195
+[turtlesim_node-1] [INFO] [1790325473.041791761] [turtlesim]: Spawning turtle [turtle196] at x=[5.375010], y=[10.155689], theta=[2.636391]
+[spawner-3] [INFO] [1790325473.042206886] [turtle_spawner]: New alive turtle: turtle196
+[controller-2] [INFO] [1790325473.172792203] [turtle_controller]: Turtle turtle194 successfully removed!
+[spawner-3] [INFO] [1790325473.187030590] [turtle_spawner]: Killed turtle: turtle194
+[controller-2] [INFO] [1790325473.187136590] [turtle_controller]: Target updated → turtle195
+[turtlesim_node-1] [INFO] [1790325474.050171057] [turtlesim]: Spawning turtle [turtle197] at x=[2.383536], y=[6.135652], theta=[3.421497]
+[spawner-3] [INFO] [1790325474.050668058] [turtle_spawner]: New alive turtle: turtle197
+[controller-2] [INFO] [1790325474.054079602] [turtle_controller]: Turtle turtle195 successfully removed!
+[spawner-3] [INFO] [1790325474.068746740] [turtle_spawner]: Killed turtle: turtle195
+[controller-2] [INFO] [1790325474.068812656] [turtle_controller]: Target updated → turtle197
+[turtlesim_node-1] [INFO] [1790325475.058771656] [turtlesim]: Spawning turtle [turtle198] at x=[2.707050], y=[10.634225], theta=[3.112978]
+[spawner-3] [INFO] [1790325475.059150823] [turtle_spawner]: New alive turtle: turtle198
+[controller-2] [INFO] [1790325475.142848728] [turtle_controller]: Turtle turtle197 successfully removed!
+[spawner-3] [INFO] [1790325475.154115196] [turtle_spawner]: Killed turtle: turtle197
+[controller-2] [INFO] [1790325475.154193571] [turtle_controller]: Target updated → turtle198
+[turtlesim_node-1] [INFO] [1790325476.050034042] [turtlesim]: Spawning turtle [turtle199] at x=[9.784714], y=[10.424682], theta=[2.556020]
+[spawner-3] [INFO] [1790325476.051034043] [turtle_spawner]: New alive turtle: turtle199
+[controller-2] [INFO] [1790325476.213537683] [turtle_controller]: Turtle turtle198 successfully removed!
+[spawner-3] [INFO] [1790325476.226297277] [turtle_spawner]: Killed turtle: turtle198
+[controller-2] [INFO] [1790325476.226807778] [turtle_controller]: Target updated → turtle196
+[turtlesim_node-1] [INFO] [1790325477.042092189] [turtlesim]: Spawning turtle [turtle200] at x=[8.213476], y=[3.074532], theta=[1.184836]
+[spawner-3] [INFO] [1790325477.042774564] [turtle_spawner]: New alive turtle: turtle200
+[controller-2] [INFO] [1790325477.092842274] [turtle_controller]: Turtle turtle196 successfully removed!
+[spawner-3] [INFO] [1790325477.106635828] [turtle_spawner]: Killed turtle: turtle196
+[controller-2] [INFO] [1790325477.106775287] [turtle_controller]: Target updated → turtle199
+[turtlesim_node-1] [INFO] [1790325478.051820444] [turtlesim]: Spawning turtle [turtle201] at x=[3.589834], y=[0.772437], theta=[2.740395]
+[spawner-3] [INFO] [1790325478.053093361] [turtle_spawner]: New alive turtle: turtle201
+[controller-2] [INFO] [1790325478.163152542] [turtle_controller]: Turtle turtle199 successfully removed!
+[spawner-3] [INFO] [1790325478.179780056] [turtle_spawner]: Killed turtle: turtle199
+[controller-2] [INFO] [1790325478.180333515] [turtle_controller]: Target updated → turtle200
+[turtlesim_node-1] [INFO] [1790325479.041345358] [turtlesim]: Spawning turtle [turtle202] at x=[1.508363], y=[1.580774], theta=[6.192214]
+[spawner-3] [INFO] [1790325479.041830608] [turtle_spawner]: New alive turtle: turtle202
+[controller-2] [INFO] [1790325479.513679112] [turtle_controller]: Turtle turtle200 successfully removed!
+[spawner-3] [INFO] [1790325479.522285078] [turtle_spawner]: Killed turtle: turtle200
+[controller-2] [INFO] [1790325479.522820203] [turtle_controller]: Target updated → turtle201
+[turtlesim_node-1] [INFO] [1790325480.050151882] [turtlesim]: Spawning turtle [turtle203] at x=[0.124873], y=[5.667277], theta=[0.091770]
+[spawner-3] [INFO] [1790325480.051151800] [turtle_spawner]: New alive turtle: turtle203
+[controller-2] [INFO] [1790325480.642872208] [turtle_controller]: Turtle turtle201 successfully removed!
+[spawner-3] [INFO] [1790325480.661989184] [turtle_spawner]: Killed turtle: turtle201
+[controller-2] [INFO] [1790325480.662175392] [turtle_controller]: Target updated → turtle202
+[turtlesim_node-1] [INFO] [1790325481.041244151] [turtlesim]: Spawning turtle [turtle204] at x=[9.946329], y=[9.130313], theta=[3.941665]
+[spawner-3] [INFO] [1790325481.042135527] [turtle_spawner]: New alive turtle: turtle204
+[controller-2] [INFO] [1790325481.442813808] [turtle_controller]: Turtle turtle202 successfully removed!
+[spawner-3] [INFO] [1790325481.460269324] [turtle_spawner]: Killed turtle: turtle202
+[controller-2] [INFO] [1790325481.460753950] [turtle_controller]: Target updated → turtle203
+[turtlesim_node-1] [INFO] [1790325482.050186821] [turtlesim]: Spawning turtle [turtle205] at x=[5.799921], y=[7.809460], theta=[0.953563]
+[spawner-3] [INFO] [1790325482.050802779] [turtle_spawner]: New alive turtle: turtle205
+[controller-2] [INFO] [1790325482.502829321] [turtle_controller]: Turtle turtle203 successfully removed!
+[spawner-3] [INFO] [1790325482.517015292] [turtle_spawner]: Killed turtle: turtle203
+[controller-2] [INFO] [1790325482.517688376] [turtle_controller]: Target updated → turtle205
+[turtlesim_node-1] [INFO] [1790325483.057921499] [turtlesim]: Spawning turtle [turtle206] at x=[3.733863], y=[5.202302], theta=[4.584022]
+[spawner-3] [INFO] [1790325483.059042709] [turtle_spawner]: New alive turtle: turtle206
+[controller-2] [INFO] [1790325483.724186828] [turtle_controller]: Turtle turtle205 successfully removed!
+[spawner-3] [INFO] [1790325483.730793792] [turtle_spawner]: Killed turtle: turtle205
+[controller-2] [INFO] [1790325483.731027042] [turtle_controller]: Target updated → turtle206
+[turtlesim_node-1] [INFO] [1790325484.049991757] [turtlesim]: Spawning turtle [turtle207] at x=[6.231917], y=[7.377028], theta=[5.280100]
+[spawner-3] [INFO] [1790325484.051250924] [turtle_spawner]: New alive turtle: turtle207
+[controller-2] [INFO] [1790325484.714393882] [turtle_controller]: Turtle turtle206 successfully removed!
+[spawner-3] [INFO] [1790325484.722581889] [turtle_spawner]: Killed turtle: turtle206
+[controller-2] [INFO] [1790325484.722979223] [turtle_controller]: Target updated → turtle207
+[turtlesim_node-1] [INFO] [1790325485.042399399] [turtlesim]: Spawning turtle [turtle208] at x=[1.529599], y=[7.424101], theta=[6.115821]
+[spawner-3] [INFO] [1790325485.042782566] [turtle_spawner]: New alive turtle: turtle208
+[controller-2] [INFO] [1790325485.712847578] [turtle_controller]: Turtle turtle207 successfully removed!
+[spawner-3] [INFO] [1790325485.732587013] [turtle_spawner]: Killed turtle: turtle207
+[controller-2] [INFO] [1790325485.732971889] [turtle_controller]: Target updated → turtle208
+[turtlesim_node-1] [INFO] [1790325486.051294109] [turtlesim]: Spawning turtle [turtle209] at x=[6.212426], y=[8.274321], theta=[5.321254]
+[spawner-3] [INFO] [1790325486.052238693] [turtle_spawner]: New alive turtle: turtle209
+[controller-2] [INFO] [1790325486.882820616] [turtle_controller]: Turtle turtle208 successfully removed!
+[spawner-3] [INFO] [1790325486.899492840] [turtle_spawner]: Killed turtle: turtle208
+[controller-2] [INFO] [1790325486.900092507] [turtle_controller]: Target updated → turtle209
+[turtlesim_node-1] [INFO] [1790325487.042426686] [turtlesim]: Spawning turtle [turtle210] at x=[3.501354], y=[0.209173], theta=[0.484139]
+[spawner-3] [INFO] [1790325487.043074562] [turtle_spawner]: New alive turtle: turtle210
+[turtlesim_node-1] [INFO] [1790325488.048913121] [turtlesim]: Spawning turtle [turtle211] at x=[5.794133], y=[8.574366], theta=[0.719805]
+[spawner-3] [INFO] [1790325488.049546997] [turtle_spawner]: New alive turtle: turtle211
+[controller-2] [INFO] [1790325488.075833564] [turtle_controller]: Turtle turtle209 successfully removed!
+[spawner-3] [INFO] [1790325488.083789364] [turtle_spawner]: Killed turtle: turtle209
+[controller-2] [INFO] [1790325488.083885447] [turtle_controller]: Target updated → turtle211
+[controller-2] [INFO] [1790325488.212838865] [turtle_controller]: Turtle turtle211 successfully removed!
+[spawner-3] [INFO] [1790325488.226499379] [turtle_spawner]: Killed turtle: turtle211
+[controller-2] [INFO] [1790325488.226991213] [turtle_controller]: Target updated → turtle204
+[turtlesim_node-1] [INFO] [1790325489.042068345] [turtlesim]: Spawning turtle [turtle212] at x=[2.207882], y=[5.656138], theta=[0.554302]
+[spawner-3] [INFO] [1790325489.042429221] [turtle_spawner]: New alive turtle: turtle212
+[controller-2] [INFO] [1790325489.252803720] [turtle_controller]: Turtle turtle204 successfully removed!
+[spawner-3] [INFO] [1790325489.265998734] [turtle_spawner]: Killed turtle: turtle204
+[controller-2] [INFO] [1790325489.266348776] [turtle_controller]: Target updated → turtle212
+[turtlesim_node-1] [INFO] [1790325490.049684551] [turtlesim]: Spawning turtle [turtle213] at x=[4.560829], y=[3.093548], theta=[0.966269]
+[spawner-3] [INFO] [1790325490.050123469] [turtle_spawner]: New alive turtle: turtle213
+[controller-2] [INFO] [1790325490.693524695] [turtle_controller]: Turtle turtle212 successfully removed!
+[spawner-3] [INFO] [1790325490.707485709] [turtle_spawner]: Killed turtle: turtle212
+[controller-2] [INFO] [1790325490.707633209] [turtle_controller]: Target updated → turtle213
+[turtlesim_node-1] [INFO] [1790325491.042935670] [turtlesim]: Spawning turtle [turtle214] at x=[0.224896], y=[4.772546], theta=[0.227794]
+[spawner-3] [INFO] [1790325491.043453170] [turtle_spawner]: New alive turtle: turtle214
+[controller-2] [INFO] [1790325491.703087920] [turtle_controller]: Turtle turtle213 successfully removed!
+[spawner-3] [INFO] [1790325491.715657599] [turtle_spawner]: Killed turtle: turtle213
+[controller-2] [INFO] [1790325491.715940099] [turtle_controller]: Target updated → turtle210
+[turtlesim_node-1] [INFO] [1790325492.050083187] [turtlesim]: Spawning turtle [turtle215] at x=[5.685579], y=[3.129524], theta=[3.772385]
+[spawner-3] [INFO] [1790325492.051203688] [turtle_spawner]: New alive turtle: turtle215
+[controller-2] [INFO] [1790325492.642952125] [turtle_controller]: Turtle turtle210 successfully removed!
+[spawner-3] [INFO] [1790325492.659188308] [turtle_spawner]: Killed turtle: turtle210
+[controller-2] [INFO] [1790325492.659777058] [turtle_controller]: Target updated → turtle215
+[turtlesim_node-1] [INFO] [1790325493.042112157] [turtlesim]: Spawning turtle [turtle216] at x=[4.994044], y=[8.831456], theta=[1.829512]
+[spawner-3] [INFO] [1790325493.043227908] [turtle_spawner]: New alive turtle: turtle216
+[controller-2] [INFO] [1790325493.703128379] [turtle_controller]: Turtle turtle215 successfully removed!
+[spawner-3] [INFO] [1790325493.715435891] [turtle_spawner]: Killed turtle: turtle215
+[controller-2] [INFO] [1790325493.715593891] [turtle_controller]: Target updated → turtle214
+[turtlesim_node-1] [INFO] [1790325494.053013281] [turtlesim]: Spawning turtle [turtle217] at x=[1.944360], y=[8.985623], theta=[1.796166]
+[spawner-3] [INFO] [1790325494.054574824] [turtle_spawner]: New alive turtle: turtle217
+[controller-2] [INFO] [1790325494.903072830] [turtle_controller]: Turtle turtle214 successfully removed!
+[spawner-3] [INFO] [1790325494.918464638] [turtle_spawner]: Killed turtle: turtle214
+[controller-2] [INFO] [1790325494.918548596] [turtle_controller]: Target updated → turtle217
+[turtlesim_node-1] [INFO] [1790325495.041897558] [turtlesim]: Spawning turtle [turtle218] at x=[2.302684], y=[9.343476], theta=[2.738856]
+[spawner-3] [INFO] [1790325495.042279267] [turtle_spawner]: New alive turtle: turtle218
+[turtlesim_node-1] [WARN] [1790325495.072958132] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.007086, y=5.844310])
+[turtlesim_node-1] [WARN] [1790325495.088187773] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.051277, y=5.712270])
+[turtlesim_node-1] [WARN] [1790325495.103399831] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.032654, y=5.575196])
+[turtlesim_node-1] [WARN] [1790325495.120082015] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.015527, y=5.436538])
+[turtlesim_node-1] [WARN] [1790325495.136274782] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.000486, y=5.299023])
+[controller-2] [INFO] [1790325496.023040754] [turtle_controller]: Turtle turtle217 successfully removed!
+[spawner-3] [INFO] [1790325496.039271771] [turtle_spawner]: Killed turtle: turtle217
+[controller-2] [INFO] [1790325496.039318062] [turtle_controller]: Target updated → turtle218
+[turtlesim_node-1] [INFO] [1790325496.049517365] [turtlesim]: Spawning turtle [turtle219] at x=[6.806685], y=[7.590527], theta=[5.070989]
+[spawner-3] [INFO] [1790325496.050873408] [turtle_spawner]: New alive turtle: turtle219
+[controller-2] [INFO] [1790325496.373467666] [turtle_controller]: Turtle turtle218 successfully removed!
+[spawner-3] [INFO] [1790325496.388892807] [turtle_spawner]: Killed turtle: turtle218
+[controller-2] [INFO] [1790325496.389378516] [turtle_controller]: Target updated → turtle216
+[turtlesim_node-1] [INFO] [1790325497.058010307] [turtlesim]: Spawning turtle [turtle220] at x=[7.041980], y=[1.449180], theta=[1.269349]
+[spawner-3] [INFO] [1790325497.058640933] [turtle_spawner]: New alive turtle: turtle220
+[controller-2] [INFO] [1790325497.253837350] [turtle_controller]: Turtle turtle216 successfully removed!
+[spawner-3] [INFO] [1790325497.267070489] [turtle_spawner]: Killed turtle: turtle216
+[controller-2] [INFO] [1790325497.267523989] [turtle_controller]: Target updated → turtle219
+[turtlesim_node-1] [INFO] [1790325498.051592035] [turtlesim]: Spawning turtle [turtle221] at x=[9.402202], y=[10.029611], theta=[3.688657]
+[spawner-3] [INFO] [1790325498.052239911] [turtle_spawner]: New alive turtle: turtle221
+[controller-2] [INFO] [1790325498.063731632] [turtle_controller]: Turtle turtle219 successfully removed!
+[spawner-3] [INFO] [1790325498.068040636] [turtle_spawner]: Killed turtle: turtle219
+[controller-2] [INFO] [1790325498.068074261] [turtle_controller]: Target updated → turtle221
+[controller-2] [INFO] [1790325499.042804895] [turtle_controller]: Turtle turtle221 successfully removed!
+[spawner-3] [INFO] [1790325499.057950328] [turtle_spawner]: Killed turtle: turtle221
+[controller-2] [INFO] [1790325499.058545371] [turtle_controller]: Target updated → turtle220
+[turtlesim_node-1] [INFO] [1790325499.060408123] [turtlesim]: Spawning turtle [turtle222] at x=[6.452330], y=[8.124176], theta=[5.739738]
+[spawner-3] [INFO] [1790325499.060835956] [turtle_spawner]: New alive turtle: turtle222
+[turtlesim_node-1] [WARN] [1790325499.280787987] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.151397, y=2.372184])
+[turtlesim_node-1] [WARN] [1790325499.295782337] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.123803, y=2.655166])
+[turtlesim_node-1] [WARN] [1790325499.311526229] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.091714, y=2.940280])
+[turtlesim_node-1] [INFO] [1790325500.050081240] [turtlesim]: Spawning turtle [turtle223] at x=[8.402969], y=[9.339250], theta=[4.096581]
+[spawner-3] [INFO] [1790325500.050520241] [turtle_spawner]: New alive turtle: turtle223
+[controller-2] [INFO] [1790325500.502877237] [turtle_controller]: Turtle turtle220 successfully removed!
+[spawner-3] [INFO] [1790325500.516904585] [turtle_spawner]: Killed turtle: turtle220
+[controller-2] [INFO] [1790325500.517709420] [turtle_controller]: Target updated → turtle222
+[turtlesim_node-1] [INFO] [1790325501.042509745] [turtlesim]: Spawning turtle [turtle224] at x=[4.514626], y=[2.536368], theta=[2.010752]
+[spawner-3] [INFO] [1790325501.043665872] [turtle_spawner]: New alive turtle: turtle224
+[controller-2] [INFO] [1790325501.813451015] [turtle_controller]: Turtle turtle222 successfully removed!
+[spawner-3] [INFO] [1790325501.827314488] [turtle_spawner]: Killed turtle: turtle222
+[controller-2] [INFO] [1790325501.827365572] [turtle_controller]: Target updated → turtle223
+[turtlesim_node-1] [INFO] [1790325502.050994736] [turtlesim]: Spawning turtle [turtle225] at x=[8.290651], y=[6.895245], theta=[1.339657]
+[spawner-3] [INFO] [1790325502.051485612] [turtle_spawner]: New alive turtle: turtle225
+[controller-2] [INFO] [1790325502.633813428] [turtle_controller]: Turtle turtle223 successfully removed!
+[spawner-3] [INFO] [1790325502.642955563] [turtle_spawner]: Killed turtle: turtle223
+[controller-2] [INFO] [1790325502.643302439] [turtle_controller]: Target updated → turtle225
+[turtlesim_node-1] [INFO] [1790325503.043515802] [turtlesim]: Spawning turtle [turtle226] at x=[3.733108], y=[4.855649], theta=[3.779600]
+[spawner-3] [INFO] [1790325503.044139428] [turtle_spawner]: New alive turtle: turtle226
+[controller-2] [INFO] [1790325503.482852213] [turtle_controller]: Turtle turtle225 successfully removed!
+[spawner-3] [INFO] [1790325503.490553222] [turtle_spawner]: Killed turtle: turtle225
+[controller-2] [INFO] [1790325503.490732139] [turtle_controller]: Target updated → turtle226
+[turtlesim_node-1] [INFO] [1790325504.050944019] [turtlesim]: Spawning turtle [turtle227] at x=[0.228149], y=[2.045068], theta=[1.608511]
+[spawner-3] [INFO] [1790325504.051663062] [turtle_spawner]: New alive turtle: turtle227
+[controller-2] [INFO] [1790325504.583872041] [turtle_controller]: Turtle turtle226 successfully removed!
+[spawner-3] [INFO] [1790325504.595116553] [turtle_spawner]: Killed turtle: turtle226
+[controller-2] [INFO] [1790325504.595161428] [turtle_controller]: Target updated → turtle224
+[turtlesim_node-1] [INFO] [1790325505.041768185] [turtlesim]: Spawning turtle [turtle228] at x=[5.579432], y=[0.116453], theta=[4.235293]
+[spawner-3] [INFO] [1790325505.042216019] [turtle_spawner]: New alive turtle: turtle228
+[controller-2] [INFO] [1790325505.433456883] [turtle_controller]: Turtle turtle224 successfully removed!
+[spawner-3] [INFO] [1790325505.443477062] [turtle_spawner]: Killed turtle: turtle224
+[controller-2] [INFO] [1790325505.443956895] [turtle_controller]: Target updated → turtle228
+[turtlesim_node-1] [INFO] [1790325506.051143882] [turtlesim]: Spawning turtle [turtle229] at x=[5.578617], y=[7.922389], theta=[3.288988]
+[spawner-3] [INFO] [1790325506.051543049] [turtle_spawner]: New alive turtle: turtle229
+[controller-2] [INFO] [1790325506.292927703] [turtle_controller]: Turtle turtle228 successfully removed!
+[spawner-3] [INFO] [1790325506.308683138] [turtle_spawner]: Killed turtle: turtle228
+[controller-2] [INFO] [1790325506.309083680] [turtle_controller]: Target updated → turtle227
+[turtlesim_node-1] [WARN] [1790325506.415528511] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.399569, y=11.096512])
+[turtlesim_node-1] [WARN] [1790325506.433128281] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.321591, y=11.243566])
+[turtlesim_node-1] [WARN] [1790325506.447905798] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.212154, y=11.223161])
+[turtlesim_node-1] [WARN] [1790325506.463473983] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.077146, y=11.204009])
+[turtlesim_node-1] [WARN] [1790325506.480755669] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=4.923630, y=11.177841])
+[turtlesim_node-1] [WARN] [1790325506.495829270] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=4.757221, y=11.151946])
+[turtlesim_node-1] [WARN] [1790325506.511908122] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=4.585802, y=11.127148])
+[turtlesim_node-1] [WARN] [1790325506.528636350] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=4.414221, y=11.105595])
+[turtlesim_node-1] [WARN] [1790325506.543487075] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=4.250337, y=11.090071])
+[turtlesim_node-1] [INFO] [1790325507.042357693] [turtlesim]: Spawning turtle [turtle230] at x=[4.293558], y=[8.855539], theta=[0.936012]
+[spawner-3] [INFO] [1790325507.042808068] [turtle_spawner]: New alive turtle: turtle230
+[controller-2] [INFO] [1790325507.493455592] [turtle_controller]: Turtle turtle227 successfully removed!
+[spawner-3] [INFO] [1790325507.506200565] [turtle_spawner]: Killed turtle: turtle227
+[controller-2] [INFO] [1790325507.506619941] [turtle_controller]: Target updated → turtle229
+[turtlesim_node-1] [WARN] [1790325507.647401355] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.015544, y=8.204546])
+[turtlesim_node-1] [WARN] [1790325507.663372831] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.013266, y=7.954028])
+[turtlesim_node-1] [INFO] [1790325508.050798616] [turtlesim]: Spawning turtle [turtle231] at x=[3.233541], y=[7.693504], theta=[1.624295]
+[spawner-3] [INFO] [1790325508.051792617] [turtle_spawner]: New alive turtle: turtle231
+[controller-2] [INFO] [1790325508.852820306] [turtle_controller]: Turtle turtle229 successfully removed!
+[spawner-3] [INFO] [1790325508.866315364] [turtle_spawner]: Killed turtle: turtle229
+[controller-2] [INFO] [1790325508.866342655] [turtle_controller]: Target updated → turtle230
+[turtlesim_node-1] [INFO] [1790325509.041134736] [turtlesim]: Spawning turtle [turtle232] at x=[0.826918], y=[4.575048], theta=[2.684785]
+[spawner-3] [INFO] [1790325509.042251570] [turtle_spawner]: New alive turtle: turtle232
+[controller-2] [INFO] [1790325509.492827019] [turtle_controller]: Turtle turtle230 successfully removed!
+[spawner-3] [INFO] [1790325509.507177453] [turtle_spawner]: Killed turtle: turtle230
+[controller-2] [INFO] [1790325509.507248286] [turtle_controller]: Target updated → turtle231
+[turtlesim_node-1] [INFO] [1790325510.051834055] [turtlesim]: Spawning turtle [turtle233] at x=[9.069884], y=[2.331808], theta=[2.394228]
+[spawner-3] [INFO] [1790325510.052221723] [turtle_spawner]: New alive turtle: turtle233
+[controller-2] [INFO] [1790325510.163789564] [turtle_controller]: Turtle turtle231 successfully removed!
+[spawner-3] [INFO] [1790325510.178208331] [turtle_spawner]: Killed turtle: turtle231
+[controller-2] [INFO] [1790325510.178262206] [turtle_controller]: Target updated → turtle232
+[turtlesim_node-1] [INFO] [1790325511.059274214] [turtlesim]: Spawning turtle [turtle234] at x=[5.143145], y=[0.312360], theta=[0.175362]
+[spawner-3] [INFO] [1790325511.059837673] [turtle_spawner]: New alive turtle: turtle234
+[controller-2] [INFO] [1790325511.192806875] [turtle_controller]: Turtle turtle232 successfully removed!
+[controller-2] [INFO] [1790325511.203083554] [turtle_controller]: Target updated → turtle234
+[spawner-3] [INFO] [1790325511.203328346] [turtle_spawner]: Killed turtle: turtle232
+[turtlesim_node-1] [INFO] [1790325512.051055655] [turtlesim]: Spawning turtle [turtle235] at x=[3.972136], y=[6.834312], theta=[5.451892]
+[spawner-3] [INFO] [1790325512.051687615] [turtle_spawner]: New alive turtle: turtle235
+[controller-2] [INFO] [1790325512.422934022] [turtle_controller]: Turtle turtle234 successfully removed!
+[spawner-3] [INFO] [1790325512.435994746] [turtle_spawner]: Killed turtle: turtle234
+[controller-2] [INFO] [1790325512.436077913] [turtle_controller]: Target updated → turtle233
+[turtlesim_node-1] [INFO] [1790325513.042351647] [turtlesim]: Spawning turtle [turtle236] at x=[7.598498], y=[9.244339], theta=[6.205060]
+[spawner-3] [INFO] [1790325513.043272106] [turtle_spawner]: New alive turtle: turtle236
+[controller-2] [INFO] [1790325513.493770406] [turtle_controller]: Turtle turtle233 successfully removed!
+[spawner-3] [INFO] [1790325513.506250421] [turtle_spawner]: Killed turtle: turtle233
+[controller-2] [INFO] [1790325513.506705880] [turtle_controller]: Target updated → turtle235
+[turtlesim_node-1] [INFO] [1790325514.050862210] [turtlesim]: Spawning turtle [turtle237] at x=[4.558767], y=[8.675813], theta=[1.173180]
+[spawner-3] [INFO] [1790325514.051742086] [turtle_spawner]: New alive turtle: turtle237
+[controller-2] [INFO] [1790325514.793758415] [turtle_controller]: Turtle turtle235 successfully removed!
+[spawner-3] [INFO] [1790325514.803395010] [turtle_spawner]: Killed turtle: turtle235
+[controller-2] [INFO] [1790325514.803479093] [turtle_controller]: Target updated → turtle237
+[turtlesim_node-1] [INFO] [1790325515.042656929] [turtlesim]: Spawning turtle [turtle238] at x=[2.774693], y=[6.922769], theta=[1.525733]
+[spawner-3] [INFO] [1790325515.043269513] [turtle_spawner]: New alive turtle: turtle238
+[controller-2] [INFO] [1790325515.522831690] [turtle_controller]: Turtle turtle237 successfully removed!
+[spawner-3] [INFO] [1790325515.538114876] [turtle_spawner]: Killed turtle: turtle237
+[controller-2] [INFO] [1790325515.538493918] [turtle_controller]: Target updated → turtle238
+[turtlesim_node-1] [INFO] [1790325516.050394719] [turtlesim]: Spawning turtle [turtle239] at x=[10.548361], y=[8.766690], theta=[2.187634]
+[spawner-3] [INFO] [1790325516.050864844] [turtle_spawner]: New alive turtle: turtle239
+[controller-2] [INFO] [1790325516.394175272] [turtle_controller]: Turtle turtle238 successfully removed!
+[spawner-3] [INFO] [1790325516.402445658] [turtle_spawner]: Killed turtle: turtle238
+[controller-2] [INFO] [1790325516.402934783] [turtle_controller]: Target updated → turtle236
+[turtlesim_node-1] [INFO] [1790325517.042393248] [turtlesim]: Spawning turtle [turtle240] at x=[0.204414], y=[8.738029], theta=[2.957482]
+[spawner-3] [INFO] [1790325517.043392666] [turtle_spawner]: New alive turtle: turtle240
+[controller-2] [INFO] [1790325517.602881785] [turtle_controller]: Turtle turtle236 successfully removed!
+[spawner-3] [INFO] [1790325517.619654598] [turtle_spawner]: Killed turtle: turtle236
+[controller-2] [INFO] [1790325517.620041640] [turtle_controller]: Target updated → turtle239
+[turtlesim_node-1] [INFO] [1790325518.049917973] [turtlesim]: Spawning turtle [turtle241] at x=[9.958077], y=[3.406946], theta=[5.253954]
+[spawner-3] [INFO] [1790325518.050382182] [turtle_spawner]: New alive turtle: turtle241
+[controller-2] [INFO] [1790325518.522895113] [turtle_controller]: Turtle turtle239 successfully removed!
+[spawner-3] [INFO] [1790325518.533191084] [turtle_spawner]: Killed turtle: turtle239
+[controller-2] [INFO] [1790325518.533640001] [turtle_controller]: Target updated → turtle241
+[turtlesim_node-1] [WARN] [1790325518.752697029] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.107317, y=3.520993])
+[turtlesim_node-1] [WARN] [1790325518.768119257] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.103900, y=3.676614])
+[turtlesim_node-1] [WARN] [1790325518.783746651] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.095127, y=3.823825])
+[turtlesim_node-1] [INFO] [1790325519.041480228] [turtlesim]: Spawning turtle [turtle242] at x=[0.350193], y=[4.887215], theta=[3.879285]
+[spawner-3] [INFO] [1790325519.042195729] [turtle_spawner]: New alive turtle: turtle242
+[controller-2] [INFO] [1790325519.683087296] [turtle_controller]: Turtle turtle241 successfully removed!
+[spawner-3] [INFO] [1790325519.699402983] [turtle_spawner]: Killed turtle: turtle241
+[controller-2] [INFO] [1790325519.699434775] [turtle_controller]: Target updated → turtle242
+[turtlesim_node-1] [INFO] [1790325520.051527933] [turtlesim]: Spawning turtle [turtle243] at x=[8.773603], y=[5.528589], theta=[0.771971]
+[spawner-3] [INFO] [1790325520.051993558] [turtle_spawner]: New alive turtle: turtle243
+[turtlesim_node-1] [INFO] [1790325521.040833454] [turtlesim]: Spawning turtle [turtle244] at x=[2.335275], y=[5.684021], theta=[4.663843]
+[spawner-3] [INFO] [1790325521.041236246] [turtle_spawner]: New alive turtle: turtle244
+[controller-2] [INFO] [1790325521.113568298] [turtle_controller]: Turtle turtle242 successfully removed!
+[spawner-3] [INFO] [1790325521.123817853] [turtle_spawner]: Killed turtle: turtle242
+[controller-2] [INFO] [1790325521.123906144] [turtle_controller]: Target updated → turtle244
+[controller-2] [INFO] [1790325521.893533473] [turtle_controller]: Turtle turtle244 successfully removed!
+[spawner-3] [INFO] [1790325521.907092699] [turtle_spawner]: Killed turtle: turtle244
+[controller-2] [INFO] [1790325521.907471616] [turtle_controller]: Target updated → turtle240
+[turtlesim_node-1] [INFO] [1790325522.050724552] [turtlesim]: Spawning turtle [turtle245] at x=[5.132786], y=[9.575036], theta=[3.752094]
+[spawner-3] [INFO] [1790325522.051131219] [turtle_spawner]: New alive turtle: turtle245
+[controller-2] [INFO] [1790325522.933503535] [turtle_controller]: Turtle turtle240 successfully removed!
+[spawner-3] [INFO] [1790325522.946444302] [turtle_spawner]: Killed turtle: turtle240
+[controller-2] [INFO] [1790325522.946942469] [turtle_controller]: Target updated → turtle245
+[turtlesim_node-1] [INFO] [1790325523.042280344] [turtlesim]: Spawning turtle [turtle246] at x=[1.437464], y=[1.118406], theta=[3.934325]
+[spawner-3] [INFO] [1790325523.043762762] [turtle_spawner]: New alive turtle: turtle246
+[turtlesim_node-1] [INFO] [1790325524.051060542] [turtlesim]: Spawning turtle [turtle247] at x=[6.697666], y=[2.312649], theta=[4.121963]
+[spawner-3] [INFO] [1790325524.051473793] [turtle_spawner]: New alive turtle: turtle247
+[controller-2] [INFO] [1790325524.112941874] [turtle_controller]: Turtle turtle245 successfully removed!
+[spawner-3] [INFO] [1790325524.131840066] [turtle_spawner]: Killed turtle: turtle245
+[controller-2] [INFO] [1790325524.131924649] [turtle_controller]: Target updated → turtle243
+[turtlesim_node-1] [INFO] [1790325525.041652268] [turtlesim]: Spawning turtle [turtle248] at x=[7.971843], y=[5.610170], theta=[6.135978]
+[spawner-3] [INFO] [1790325525.042035268] [turtle_spawner]: New alive turtle: turtle248
+[controller-2] [INFO] [1790325525.273495243] [turtle_controller]: Turtle turtle243 successfully removed!
+[spawner-3] [INFO] [1790325525.283482923] [turtle_spawner]: Killed turtle: turtle243
+[controller-2] [INFO] [1790325525.283567923] [turtle_controller]: Target updated → turtle248
+[controller-2] [INFO] [1790325525.543206060] [turtle_controller]: Turtle turtle248 successfully removed!
+[spawner-3] [INFO] [1790325525.553487823] [turtle_spawner]: Killed turtle: turtle248
+[controller-2] [INFO] [1790325525.553542907] [turtle_controller]: Target updated → turtle247
+[turtlesim_node-1] [INFO] [1790325526.051301152] [turtlesim]: Spawning turtle [turtle249] at x=[4.281945], y=[3.091836], theta=[3.001554]
+[spawner-3] [INFO] [1790325526.051728111] [turtle_spawner]: New alive turtle: turtle249
+[controller-2] [INFO] [1790325526.522896034] [turtle_controller]: Turtle turtle247 successfully removed!
+[spawner-3] [INFO] [1790325526.532576047] [turtle_spawner]: Killed turtle: turtle247
+[controller-2] [INFO] [1790325526.532692047] [turtle_controller]: Target updated → turtle249
+[turtlesim_node-1] [INFO] [1790325527.041568479] [turtlesim]: Spawning turtle [turtle250] at x=[2.953817], y=[9.798354], theta=[3.220337]
+[spawner-3] [INFO] [1790325527.042440063] [turtle_spawner]: New alive turtle: turtle250
+[controller-2] [INFO] [1790325527.362847370] [turtle_controller]: Turtle turtle249 successfully removed!
+[spawner-3] [INFO] [1790325527.378312933] [turtle_spawner]: Killed turtle: turtle249
+[controller-2] [INFO] [1790325527.378346016] [turtle_controller]: Target updated → turtle246
+[turtlesim_node-1] [INFO] [1790325528.050546006] [turtlesim]: Spawning turtle [turtle251] at x=[3.469357], y=[5.307818], theta=[2.240525]
+[spawner-3] [INFO] [1790325528.051673216] [turtle_spawner]: New alive turtle: turtle251
+[controller-2] [INFO] [1790325528.344890739] [turtle_controller]: Turtle turtle246 successfully removed!
+[spawner-3] [INFO] [1790325528.355525420] [turtle_spawner]: Killed turtle: turtle246
+[controller-2] [INFO] [1790325528.355936421] [turtle_controller]: Target updated → turtle251
+[turtlesim_node-1] [INFO] [1790325529.042784228] [turtlesim]: Spawning turtle [turtle252] at x=[10.324903], y=[5.048562], theta=[5.542120]
+[spawner-3] [INFO] [1790325529.043240395] [turtle_spawner]: New alive turtle: turtle252
+[controller-2] [INFO] [1790325529.512808745] [turtle_controller]: Turtle turtle251 successfully removed!
+[spawner-3] [INFO] [1790325529.521997175] [turtle_spawner]: Killed turtle: turtle251
+[controller-2] [INFO] [1790325529.522532050] [turtle_controller]: Target updated → turtle250
+[turtlesim_node-1] [INFO] [1790325530.051673440] [turtlesim]: Spawning turtle [turtle253] at x=[3.758852], y=[0.939060], theta=[0.084953]
+[spawner-3] [INFO] [1790325530.052846859] [turtle_spawner]: New alive turtle: turtle253
+[controller-2] [INFO] [1790325530.592885476] [turtle_controller]: Turtle turtle250 successfully removed!
+[spawner-3] [INFO] [1790325530.612772004] [turtle_spawner]: Killed turtle: turtle250
+[controller-2] [INFO] [1790325530.613155129] [turtle_controller]: Target updated → turtle252
+[turtlesim_node-1] [INFO] [1790325531.041082010] [turtlesim]: Spawning turtle [turtle254] at x=[5.081205], y=[9.217257], theta=[5.783207]
+[spawner-3] [INFO] [1790325531.042146303] [turtle_spawner]: New alive turtle: turtle254
+[controller-2] [INFO] [1790325532.032919841] [turtle_controller]: Turtle turtle252 successfully removed!
+[spawner-3] [INFO] [1790325532.051660576] [turtle_spawner]: Killed turtle: turtle252
+[controller-2] [INFO] [1790325532.051799868] [turtle_controller]: Target updated → turtle254
+[turtlesim_node-1] [INFO] [1790325532.052392493] [turtlesim]: Spawning turtle [turtle255] at x=[4.638180], y=[4.327146], theta=[4.222898]
+[spawner-3] [INFO] [1790325532.052788994] [turtle_spawner]: New alive turtle: turtle255
+[turtlesim_node-1] [INFO] [1790325533.043252458] [turtlesim]: Spawning turtle [turtle256] at x=[3.587439], y=[7.819156], theta=[3.026102]
+[spawner-3] [INFO] [1790325533.044210292] [turtle_spawner]: New alive turtle: turtle256
+[controller-2] [INFO] [1790325533.384199019] [turtle_controller]: Turtle turtle254 successfully removed!
+[spawner-3] [INFO] [1790325533.393476032] [turtle_spawner]: Killed turtle: turtle254
+[controller-2] [INFO] [1790325533.393892533] [turtle_controller]: Target updated → turtle256
+[turtlesim_node-1] [INFO] [1790325534.051216580] [turtlesim]: Spawning turtle [turtle257] at x=[0.193490], y=[10.404198], theta=[1.153969]
+[spawner-3] [INFO] [1790325534.052032164] [turtle_spawner]: New alive turtle: turtle257
+[controller-2] [INFO] [1790325534.154322142] [turtle_controller]: Turtle turtle256 successfully removed!
+[spawner-3] [INFO] [1790325534.161785736] [turtle_spawner]: Killed turtle: turtle256
+[controller-2] [INFO] [1790325534.161886903] [turtle_controller]: Target updated → turtle255
+[turtlesim_node-1] [INFO] [1790325535.041813145] [turtlesim]: Spawning turtle [turtle258] at x=[6.692759], y=[5.539247], theta=[0.835843]
+[spawner-3] [INFO] [1790325535.042220104] [turtle_spawner]: New alive turtle: turtle258
+[controller-2] [INFO] [1790325535.122877885] [turtle_controller]: Turtle turtle255 successfully removed!
+[spawner-3] [INFO] [1790325535.138864783] [turtle_spawner]: Killed turtle: turtle255
+[controller-2] [INFO] [1790325535.138916991] [turtle_controller]: Target updated → turtle258
+[controller-2] [INFO] [1790325535.963116328] [turtle_controller]: Turtle turtle258 successfully removed!
+[spawner-3] [INFO] [1790325535.972331341] [turtle_spawner]: Killed turtle: turtle258
+[controller-2] [INFO] [1790325535.972851425] [turtle_controller]: Target updated → turtle253
+[turtlesim_node-1] [INFO] [1790325536.052833665] [turtlesim]: Spawning turtle [turtle259] at x=[10.741241], y=[0.643168], theta=[3.982312]
+[spawner-3] [INFO] [1790325536.053680291] [turtle_spawner]: New alive turtle: turtle259
+[turtlesim_node-1] [INFO] [1790325537.057207892] [turtlesim]: Spawning turtle [turtle260] at x=[8.487453], y=[2.216637], theta=[2.461780]
+[spawner-3] [INFO] [1790325537.057699518] [turtle_spawner]: New alive turtle: turtle260
+[controller-2] [INFO] [1790325537.203097143] [turtle_controller]: Turtle turtle253 successfully removed!
+[spawner-3] [INFO] [1790325537.219479042] [turtle_spawner]: Killed turtle: turtle253
+[controller-2] [INFO] [1790325537.220028418] [turtle_controller]: Target updated → turtle260
+[turtlesim_node-1] [INFO] [1790325538.051164738] [turtlesim]: Spawning turtle [turtle261] at x=[1.438980], y=[8.357755], theta=[3.493432]
+[spawner-3] [INFO] [1790325538.052014781] [turtle_spawner]: New alive turtle: turtle261
+[controller-2] [INFO] [1790325538.402915372] [turtle_controller]: Turtle turtle260 successfully removed!
+[spawner-3] [INFO] [1790325538.419274729] [turtle_spawner]: Killed turtle: turtle260
+[controller-2] [INFO] [1790325538.419365521] [turtle_controller]: Target updated → turtle259
+[turtlesim_node-1] [INFO] [1790325539.042473715] [turtlesim]: Spawning turtle [turtle262] at x=[8.697616], y=[5.677525], theta=[2.675139]
+[spawner-3] [INFO] [1790325539.043550133] [turtle_spawner]: New alive turtle: turtle262
+[controller-2] [INFO] [1790325539.303018094] [turtle_controller]: Turtle turtle259 successfully removed!
+[spawner-3] [INFO] [1790325539.317545574] [turtle_spawner]: Killed turtle: turtle259
+[controller-2] [INFO] [1790325539.317715241] [turtle_controller]: Target updated → turtle262
+[turtlesim_node-1] [WARN] [1790325539.456037400] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.200550, y=10.155217])
+[turtlesim_node-1] [WARN] [1790325539.471567256] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.209953, y=10.042106])
+[turtlesim_node-1] [WARN] [1790325539.488177905] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.184868, y=9.903244])
+[turtlesim_node-1] [WARN] [1790325539.504956013] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.161261, y=9.747361])
+[turtlesim_node-1] [WARN] [1790325539.520153619] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.133825, y=9.581476])
+[turtlesim_node-1] [WARN] [1790325539.535479933] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.112181, y=9.416335])
+[turtlesim_node-1] [WARN] [1790325539.552373582] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=11.091507, y=9.249581])
+[turtlesim_node-1] [INFO] [1790325540.051224684] [turtlesim]: Spawning turtle [turtle263] at x=[3.160360], y=[7.981829], theta=[3.573454]
+[spawner-3] [INFO] [1790325540.053218228] [turtle_spawner]: New alive turtle: turtle263
+[controller-2] [INFO] [1790325540.523815126] [turtle_controller]: Turtle turtle262 successfully removed!
+[spawner-3] [INFO] [1790325540.533173265] [turtle_spawner]: Killed turtle: turtle262
+[controller-2] [INFO] [1790325540.533861724] [turtle_controller]: Target updated → turtle263
+[turtlesim_node-1] [INFO] [1790325541.042146844] [turtlesim]: Spawning turtle [turtle264] at x=[0.846072], y=[4.754403], theta=[5.582132]
+[spawner-3] [INFO] [1790325541.043242137] [turtle_spawner]: New alive turtle: turtle264
+[controller-2] [INFO] [1790325541.704284070] [turtle_controller]: Turtle turtle263 successfully removed!
+[spawner-3] [INFO] [1790325541.715839128] [turtle_spawner]: Killed turtle: turtle263
+[controller-2] [INFO] [1790325541.716476129] [turtle_controller]: Target updated → turtle261
+[turtlesim_node-1] [INFO] [1790325542.049976413] [turtlesim]: Spawning turtle [turtle265] at x=[7.676782], y=[10.198648], theta=[4.560957]
+[spawner-3] [INFO] [1790325542.050777247] [turtle_spawner]: New alive turtle: turtle265
+[controller-2] [INFO] [1790325542.423082382] [turtle_controller]: Turtle turtle261 successfully removed!
+[spawner-3] [INFO] [1790325542.434809191] [turtle_spawner]: Killed turtle: turtle261
+[controller-2] [INFO] [1790325542.435463067] [turtle_controller]: Target updated → turtle257
+[turtlesim_node-1] [INFO] [1790325543.043896720] [turtlesim]: Spawning turtle [turtle266] at x=[1.097085], y=[7.316113], theta=[1.864411]
+[spawner-3] [INFO] [1790325543.044420887] [turtle_spawner]: New alive turtle: turtle266
+[controller-2] [INFO] [1790325543.253062615] [turtle_controller]: Turtle turtle257 successfully removed!
+[spawner-3] [INFO] [1790325543.267574512] [turtle_spawner]: Killed turtle: turtle257
+[controller-2] [INFO] [1790325543.268188387] [turtle_controller]: Target updated → turtle266
+[turtlesim_node-1] [WARN] [1790325543.408341763] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.019421, y=0.956066])
+[turtlesim_node-1] [WARN] [1790325543.423785994] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.078481, y=1.004414])
+[turtlesim_node-1] [WARN] [1790325543.440230977] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.066726, y=1.071034])
+[turtlesim_node-1] [WARN] [1790325543.455770834] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.052412, y=1.151286])
+[turtlesim_node-1] [WARN] [1790325543.472124775] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.037271, y=1.240583])
+[turtlesim_node-1] [WARN] [1790325543.487301923] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.022731, y=1.334604])
+[turtlesim_node-1] [WARN] [1790325543.503668322] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.011607, y=1.427191])
+[turtlesim_node-1] [WARN] [1790325543.519521804] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=-0.001139, y=1.520496])
+[turtlesim_node-1] [INFO] [1790325544.052297265] [turtlesim]: Spawning turtle [turtle267] at x=[6.483246], y=[0.638218], theta=[4.463254]
+[spawner-3] [INFO] [1790325544.052959475] [turtle_spawner]: New alive turtle: turtle267
+[controller-2] [INFO] [1790325544.233018412] [turtle_controller]: Turtle turtle266 successfully removed!
+[spawner-3] [INFO] [1790325544.243914303] [turtle_spawner]: Killed turtle: turtle266
+[controller-2] [INFO] [1790325544.245234930] [turtle_controller]: Target updated → turtle264
+[turtlesim_node-1] [INFO] [1790325545.043565169] [turtlesim]: Spawning turtle [turtle268] at x=[6.966803], y=[10.758236], theta=[0.534968]
+[spawner-3] [INFO] [1790325545.046021798] [turtle_spawner]: New alive turtle: turtle268
+[controller-2] [INFO] [1790325545.093877620] [turtle_controller]: Turtle turtle264 successfully removed!
+[spawner-3] [INFO] [1790325545.108538392] [turtle_spawner]: Killed turtle: turtle264
+[controller-2] [INFO] [1790325545.109159477] [turtle_controller]: Target updated → turtle267
+[turtlesim_node-1] [INFO] [1790325546.051007773] [turtlesim]: Spawning turtle [turtle269] at x=[2.539386], y=[10.874271], theta=[2.884636]
+[spawner-3] [INFO] [1790325546.051848441] [turtle_spawner]: New alive turtle: turtle269
+[controller-2] [INFO] [1790325546.373226512] [turtle_controller]: Turtle turtle267 successfully removed!
+[spawner-3] [INFO] [1790325546.390416621] [turtle_spawner]: Killed turtle: turtle267
+[controller-2] [INFO] [1790325546.390590830] [turtle_controller]: Target updated → turtle265
+[turtlesim_node-1] [INFO] [1790325547.043308154] [turtlesim]: Spawning turtle [turtle270] at x=[3.664878], y=[3.409220], theta=[6.221795]
+[spawner-3] [INFO] [1790325547.044569031] [turtle_spawner]: New alive turtle: turtle270
+[controller-2] [INFO] [1790325547.834197486] [turtle_controller]: Turtle turtle265 successfully removed!
+[spawner-3] [INFO] [1790325547.844432543] [turtle_spawner]: Killed turtle: turtle265
+[controller-2] [INFO] [1790325547.845186336] [turtle_controller]: Target updated → turtle268
+[turtlesim_node-1] [INFO] [1790325548.051830902] [turtlesim]: Spawning turtle [turtle271] at x=[7.309068], y=[0.303756], theta=[0.981941]
+[spawner-3] [INFO] [1790325548.052579653] [turtle_spawner]: New alive turtle: turtle271
+[controller-2] [INFO] [1790325548.323088443] [turtle_controller]: Turtle turtle268 successfully removed!
+[spawner-3] [INFO] [1790325548.341080513] [turtle_spawner]: Killed turtle: turtle268
+[controller-2] [INFO] [1790325548.341167846] [turtle_controller]: Target updated → turtle269
+[turtlesim_node-1] [WARN] [1790325548.591800814] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.724546, y=-0.004298])
+[turtlesim_node-1] [WARN] [1790325548.607814755] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.607011, y=-0.010209])
+[turtlesim_node-1] [WARN] [1790325548.623718113] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.497393, y=-0.007039])
+[turtlesim_node-1] [WARN] [1790325548.639944221] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.387644, y=-0.004570])
+[turtlesim_node-1] [WARN] [1790325548.655454454] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.281654, y=-0.002279])
+[turtlesim_node-1] [WARN] [1790325548.671447770] [turtlesim]: Oh no! I hit the wall! (Clamping from [x=5.179499, y=-0.000406])
+[turtlesim_node-1] [INFO] [1790325549.043419133] [turtlesim]: Spawning turtle [turtle272] at x=[2.348575], y=[1.774010], theta=[5.529341]
+[spawner-3] [INFO] [1790325549.044052009] [turtle_spawner]: New alive turtle: turtle272
+[controller-2] [INFO] [1790325549.403031355] [turtle_controller]: Turtle turtle269 successfully removed!
+[spawner-3] [INFO] [1790325549.412764661] [turtle_spawner]: Killed turtle: turtle269
+[controller-2] [INFO] [1790325549.413956038] [turtle_controller]: Target updated → turtle270
+[turtlesim_node-1] [INFO] [1790325550.051016772] [turtlesim]: Spawning turtle [turtle273] at x=[3.473778], y=[8.140601], theta=[5.304142]
+[spawner-3] [INFO] [1790325550.052901025] [turtle_spawner]: New alive turtle: turtle273
+[controller-2] [INFO] [1790325550.723946441] [turtle_controller]: Turtle turtle270 successfully removed!
+[spawner-3] [INFO] [1790325550.743769431] [turtle_spawner]: Killed turtle: turtle270
+[controller-2] [INFO] [1790325550.743871056] [turtle_controller]: Target updated → turtle272
+[turtlesim_node-1] [INFO] [1790325551.043294729] [turtlesim]: Spawning turtle [turtle274] at x=[2.112932], y=[4.127532], theta=[5.240980]
+[spawner-3] [INFO] [1790325551.044177897] [turtle_spawner]: New alive turtle: turtle274
+[controller-2] [INFO] [1790325551.512925587] [turtle_controller]: Turtle turtle272 successfully removed!
+[spawner-3] [INFO] [1790325551.522650894] [turtle_spawner]: Killed turtle: turtle272
+[controller-2] [INFO] [1790325551.522934311] [turtle_controller]: Target updated → turtle274
+[turtlesim_node-1] [INFO] [1790325552.051769887] [turtlesim]: Spawning turtle [turtle275] at x=[2.007122], y=[4.581252], theta=[4.657541]
+[spawner-3] [INFO] [1790325552.052411597] [turtle_spawner]: New alive turtle: turtle275
+[controller-2] [INFO] [1790325552.344307596] [turtle_controller]: Turtle turtle274 successfully removed!
+[spawner-3] [INFO] [1790325552.354324820] [turtle_spawner]: Killed turtle: turtle274
+[controller-2] [INFO] [1790325552.354387446] [turtle_controller]: Target updated → turtle275
+[controller-2] [INFO] [1790325552.683722171] [turtle_controller]: Turtle turtle275 successfully removed!
+[spawner-3] [INFO] [1790325552.689737764] [turtle_spawner]: Killed turtle: turtle275
+[controller-2] [INFO] [1790325552.690126389] [turtle_controller]: Target updated → turtle273
+[turtlesim_node-1] [INFO] [1790325553.041996400] [turtlesim]: Spawning turtle [turtle276] at x=[7.336136], y=[10.701282], theta=[4.864591]
+[spawner-3] [INFO] [1790325553.042433193] [turtle_spawner]: New alive turtle: turtle276
+[controller-2] [INFO] [1790325553.685031165] [turtle_controller]: Turtle turtle273 successfully removed!
+[spawner-3] [INFO] [1790325553.702741068] [turtle_spawner]: Killed turtle: turtle273
+[controller-2] [INFO] [1790325553.703719320] [turtle_controller]: Target updated → turtle276
+[turtlesim_node-1] [INFO] [1790325554.050244200] [turtlesim]: Spawning turtle [turtle277] at x=[7.817000], y=[9.559833], theta=[5.925245]
+[spawner-3] [INFO] [1790325554.051124118] [turtle_spawner]: New alive turtle: turtle277
+[controller-2] [INFO] [1790325554.773017306] [turtle_controller]: Turtle turtle276 successfully removed!
+[spawner-3] [INFO] [1790325554.787525204] [turtle_spawner]: Killed turtle: turtle276
+[controller-2] [INFO] [1790325554.787969163] [turtle_controller]: Target updated → turtle277
+[turtlesim_node-1] [INFO] [1790325555.042947443] [turtlesim]: Spawning turtle [turtle278] at x=[9.662743], y=[1.063869], theta=[0.220536]
+[spawner-3] [INFO] [1790325555.043409610] [turtle_spawner]: New alive turtle: turtle278
+[controller-2] [INFO] [1790325555.332933905] [turtle_controller]: Turtle turtle277 successfully removed!
+[spawner-3] [INFO] [1790325555.347704970] [turtle_spawner]: Killed turtle: turtle277
+[controller-2] [INFO] [1790325555.347898929] [turtle_controller]: Target updated → turtle278
+[turtlesim_node-1] [INFO] [1790325556.050483676] [turtlesim]: Spawning turtle [turtle279] at x=[5.610290], y=[6.633658], theta=[4.534110]
+[spawner-3] [INFO] [1790325556.050932135] [turtle_spawner]: New alive turtle: turtle279
+[controller-2] [INFO] [1790325556.683116149] [turtle_controller]: Turtle turtle278 successfully removed!
+[spawner-3] [INFO] [1790325556.694134833] [turtle_spawner]: Killed turtle: turtle278
+[controller-2] [INFO] [1790325556.694305417] [turtle_controller]: Target updated → turtle271
+[turtlesim_node-1] [INFO] [1790325557.058213209] [turtlesim]: Spawning turtle [turtle280] at x=[2.391005], y=[4.771204], theta=[4.521018]
+[spawner-3] [INFO] [1790325557.058790752] [turtle_spawner]: New alive turtle: turtle280
+[controller-2] [INFO] [1790325557.522821208] [turtle_controller]: Turtle turtle271 successfully removed!
+[spawner-3] [INFO] [1790325557.538779317] [turtle_spawner]: Killed turtle: turtle271
+[controller-2] [INFO] [1790325557.538852693] [turtle_controller]: Target updated → turtle279
+[turtlesim_node-1] [INFO] [1790325558.052285688] [turtlesim]: Spawning turtle [turtle281] at x=[0.725297], y=[5.662456], theta=[2.974395]
+[spawner-3] [INFO] [1790325558.053295981] [turtle_spawner]: New alive turtle: turtle281
+[controller-2] [INFO] [1790325558.792951388] [turtle_controller]: Turtle turtle279 successfully removed!
+[spawner-3] [INFO] [1790325558.804295365] [turtle_spawner]: Killed turtle: turtle279
+[controller-2] [INFO] [1790325558.804767741] [turtle_controller]: Target updated → turtle280
+[turtlesim_node-1] [INFO] [1790325559.041723959] [turtlesim]: Spawning turtle [turtle282] at x=[4.084369], y=[4.191410], theta=[5.136433]
+[spawner-3] [INFO] [1790325559.042136918] [turtle_spawner]: New alive turtle: turtle282
+[controller-2] [INFO] [1790325559.832892957] [turtle_controller]: Turtle turtle280 successfully removed!
+[spawner-3] [INFO] [1790325559.841978180] [turtle_spawner]: Killed turtle: turtle280
+[controller-2] [INFO] [1790325559.842441430] [turtle_controller]: Target updated → turtle282
+[turtlesim_node-1] [INFO] [1790325560.049991769] [turtlesim]: Spawning turtle [turtle283] at x=[1.982109], y=[4.526100], theta=[2.137087]
+[spawner-3] [INFO] [1790325560.050448145] [turtle_spawner]: New alive turtle: turtle283
+[controller-2] [INFO] [1790325560.533974187] [turtle_controller]: Turtle turtle282 successfully removed!
+[spawner-3] [INFO] [1790325560.547785001] [turtle_spawner]: Killed turtle: turtle282
+[controller-2] [INFO] [1790325560.547846085] [turtle_controller]: Target updated → turtle283
+[turtlesim_node-1] [INFO] [1790325561.043095105] [turtlesim]: Spawning turtle [turtle284] at x=[5.191956], y=[3.526553], theta=[3.843951]
+[spawner-3] [INFO] [1790325561.043850898] [turtle_spawner]: New alive turtle: turtle284
+[controller-2] [INFO] [1790325561.334486418] [turtle_controller]: Turtle turtle283 successfully removed!
+[spawner-3] [INFO] [1790325561.349218359] [turtle_spawner]: Killed turtle: turtle283
+[controller-2] [INFO] [1790325561.349831568] [turtle_controller]: Target updated → turtle281
+[controller-2] [INFO] [1790325562.033256902] [turtle_controller]: Turtle turtle281 successfully removed!
+[spawner-3] [INFO] [1790325562.050191597] [turtle_spawner]: Killed turtle: turtle281
+[controller-2] [INFO] [1790325562.050772348] [turtle_controller]: Target updated → turtle284
+[turtlesim_node-1] [INFO] [1790325562.052437101] [turtlesim]: Spawning turtle [turtle285] at x=[5.670196], y=[6.853411], theta=[1.505799]
+[spawner-3] [INFO] [1790325562.052968768] [turtle_spawner]: New alive turtle: turtle285
+[turtlesim_node-1] [INFO] [1790325563.058590350] [turtlesim]: Spawning turtle [turtle286] at x=[5.978322], y=[5.553228], theta=[6.209886]
+[spawner-3] [INFO] [1790325563.059255559] [turtle_spawner]: New alive turtle: turtle286
+[controller-2] [INFO] [1790325563.242863865] [turtle_controller]: Turtle turtle284 successfully removed!
+[spawner-3] [INFO] [1790325563.250535919] [turtle_spawner]: Killed turtle: turtle284
+[controller-2] [INFO] [1790325563.250652795] [turtle_controller]: Target updated → turtle286
+[controller-2] [INFO] [1790325564.024243290] [turtle_controller]: Turtle turtle286 successfully removed!
+[spawner-3] [INFO] [1790325564.035179225] [turtle_spawner]: Killed turtle: turtle286
+[controller-2] [INFO] [1790325564.035536851] [turtle_controller]: Target updated → turtle285
+[turtlesim_node-1] [INFO] [1790325564.049809291] [turtlesim]: Spawning turtle [turtle287] at x=[9.448815], y=[2.657942], theta=[5.213729]
+[spawner-3] [INFO] [1790325564.050951876] [turtle_spawner]: New alive turtle: turtle287
+[controller-2] [INFO] [1790325564.642939241] [turtle_controller]: Turtle turtle285 successfully removed!
+[spawner-3] [INFO] [1790325564.658850851] [turtle_spawner]: Killed turtle: turtle285
+[controller-2] [INFO] [1790325564.658919685] [turtle_controller]: Target updated → turtle287
+[turtlesim_node-1] [INFO] [1790325565.057363226] [turtlesim]: Spawning turtle [turtle288] at x=[4.426791], y=[10.401007], theta=[0.300205]
+[spawner-3] [INFO] [1790325565.058440812] [turtle_spawner]: New alive turtle: turtle288
+[controller-2] [INFO] [1790325565.892846131] [turtle_controller]: Turtle turtle287 successfully removed!
+[spawner-3] [INFO] [1790325565.905882486] [turtle_spawner]: Killed turtle: turtle287
+[controller-2] [INFO] [1790325565.906344403] [turtle_controller]: Target updated → turtle288
+[turtlesim_node-1] [INFO] [1790325566.050483979] [turtlesim]: Spawning turtle [turtle289] at x=[9.123386], y=[2.359091], theta=[5.781504]
+[spawner-3] [INFO] [1790325566.050972772] [turtle_spawner]: New alive turtle: turtle289
+[turtlesim_node-1] [INFO] [1790325567.042059613] [turtlesim]: Spawning turtle [turtle290] at x=[10.685928], y=[7.963357], theta=[0.147144]
+[spawner-3] [INFO] [1790325567.042832989] [turtle_spawner]: New alive turtle: turtle290
+[INFO] [turtlesim_node-1]: process has finished cleanly [pid 15413]
+[spawner-3] [WARN] [1790325569.043724186] [turtle_spawner]: Waiting for /spawn service...
+[spawner-3] [WARN] [1790325570.046187905] [turtle_spawner]: Waiting for /spawn service...
