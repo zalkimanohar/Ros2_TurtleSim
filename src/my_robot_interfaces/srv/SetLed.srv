@@ -1,0 +1,6 @@
+# Request
+int64 led_number
+int64 state  # e.g., 1 for on, 0 for off
+---
+# Response
+bool success

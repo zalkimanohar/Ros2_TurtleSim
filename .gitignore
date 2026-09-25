@@ -1,0 +1,12 @@
+# ROS 2 specific directories
+/build/
+/install/
+/log/
+
+# Python / IDE / OS artifacts
+__pycache__/
+*.py[cod]
+.vscode/
+.DS_Store
+*.swp
+*.egg-info/
