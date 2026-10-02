@@ -10,3 +10,6 @@ __pycache__/
 .DS_Store
 *.swp
 *.egg-info/
+build/
+install/
+log/
